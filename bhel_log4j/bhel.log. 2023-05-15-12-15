@@ -1,0 +1,27 @@
+[2023-05-15 12:15:03,532] http-nio-8095-exec-10 com.bhel.project.controller.BhelController 42 (INFO) - login method
+[2023-05-15 12:15:03,535] http-nio-8095-exec-10 com.bhel.project.controller.BhelController 43 (DEBUG) - loading from page...
+[2023-05-15 12:15:03,535] http-nio-8095-exec-10 com.bhel.project.controller.BhelController 44 (INFO) - Info level message!!!
+[2023-05-15 12:15:03,536] http-nio-8095-exec-10 com.bhel.project.controller.BhelController 45 (WARN) - Warn level message!!!
+[2023-05-15 12:15:03,536] http-nio-8095-exec-10 com.bhel.project.controller.BhelController 46 (ERROR) - Error level message!!!
+[2023-05-15 12:15:03,536] http-nio-8095-exec-10 com.bhel.project.controller.BhelController 47 (FATAL) - Fatal level message!!!
+[2023-05-15 12:15:13,367] http-nio-8095-exec-5 com.bhel.project.controller.BhelController 121 (INFO) - [getDashboardOverallData] : start of the method !!
+[2023-05-15 12:15:19,575] http-nio-8095-exec-3 com.bhel.project.controller.BhelController 42 (INFO) - login method
+[2023-05-15 12:15:19,575] http-nio-8095-exec-3 com.bhel.project.controller.BhelController 43 (DEBUG) - loading from page...
+[2023-05-15 12:15:19,576] http-nio-8095-exec-3 com.bhel.project.controller.BhelController 44 (INFO) - Info level message!!!
+[2023-05-15 12:15:19,576] http-nio-8095-exec-3 com.bhel.project.controller.BhelController 45 (WARN) - Warn level message!!!
+[2023-05-15 12:15:19,576] http-nio-8095-exec-3 com.bhel.project.controller.BhelController 46 (ERROR) - Error level message!!!
+[2023-05-15 12:15:19,577] http-nio-8095-exec-3 com.bhel.project.controller.BhelController 47 (FATAL) - Fatal level message!!!
+[2023-05-15 12:15:33,311] http-nio-8095-exec-2 com.bhel.project.controller.BhelController 121 (INFO) - [getDashboardOverallData] : start of the method !!
+[2023-05-15 12:15:34,662] http-nio-8095-exec-7 com.bhel.project.controller.BhelController 42 (INFO) - login method
+[2023-05-15 12:15:34,662] http-nio-8095-exec-7 com.bhel.project.controller.BhelController 43 (DEBUG) - loading from page...
+[2023-05-15 12:15:34,663] http-nio-8095-exec-7 com.bhel.project.controller.BhelController 44 (INFO) - Info level message!!!
+[2023-05-15 12:15:34,663] http-nio-8095-exec-7 com.bhel.project.controller.BhelController 45 (WARN) - Warn level message!!!
+[2023-05-15 12:15:34,663] http-nio-8095-exec-7 com.bhel.project.controller.BhelController 46 (ERROR) - Error level message!!!
+[2023-05-15 12:15:34,664] http-nio-8095-exec-7 com.bhel.project.controller.BhelController 47 (FATAL) - Fatal level message!!!
+[2023-05-15 12:15:39,623] http-nio-8095-exec-10 com.bhel.project.controller.BhelController 42 (INFO) - login method
+[2023-05-15 12:15:39,623] http-nio-8095-exec-10 com.bhel.project.controller.BhelController 43 (DEBUG) - loading from page...
+[2023-05-15 12:15:39,624] http-nio-8095-exec-10 com.bhel.project.controller.BhelController 44 (INFO) - Info level message!!!
+[2023-05-15 12:15:39,624] http-nio-8095-exec-10 com.bhel.project.controller.BhelController 45 (WARN) - Warn level message!!!
+[2023-05-15 12:15:39,624] http-nio-8095-exec-10 com.bhel.project.controller.BhelController 46 (ERROR) - Error level message!!!
+[2023-05-15 12:15:39,624] http-nio-8095-exec-10 com.bhel.project.controller.BhelController 47 (FATAL) - Fatal level message!!!
+[2023-05-15 12:15:50,583] http-nio-8095-exec-6 com.bhel.project.controller.BhelController 121 (INFO) - [getDashboardOverallData] : start of the method !!

@@ -1,0 +1,336 @@
+
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:tiles="http://www.thymeleaf.org">
+<head>
+<link th:href="@{css/customCss/style.css}" rel="stylesheet">
+<link th:href="@{css/responsive.css}" rel="stylesheet">
+
+<!-- Shinjan 11-04-2023-->
+
+<link rel="stylesheet" href="css/customCss/bhelBBU.css">
+<link rel="stylesheet"
+	href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/themes/smoothness/jquery-ui.css">
+<link
+	href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css"
+	rel="stylesheet">
+
+<link rel="stylesheet"
+	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+<link rel="stylesheet"
+	href="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.3/dist/sweetalert2.min.css">
+
+<script type="text/javascript"
+	src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script
+	src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"></script>
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="js/customJs/bhelBBUcreateNew.js"></script>
+
+<script type="text/javascript"
+	src="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.5/dist/sweetalert2.all.min.js"></script>
+<script src="https://unpkg.com/xlsx/dist/xlsx.full.min.js"></script>
+
+<style>
+.top--btn {
+	padding: 15px;
+}
+
+.navbar {
+	background-color: rgb(41, 70, 140);
+	padding: 0px;
+}
+
+.nav-link {
+	font-size: 17px;
+	font-weight: 400;
+	color: rgb(255, 255, 255);
+	margin: 0px 20px;
+}
+
+#projectdetailspane {
+	margin: 0kpx;
+}
+
+.sublabell {
+	direction: ltr;
+}
+
+.midRect {
+	width: 150px !important;
+}
+
+.sublabell label {
+	direction: ltr;
+}
+</style>
+</head>
+
+<body>
+
+	<div id="header">
+		<div th:replace="fragments::navbar"></div>
+		<!-- <div class="card m-3 p-3">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="projectdetailspane"> -->
+		<table class="table table-bordered m-0" style="display: none;">
+			<tr>
+				<td id="mode" th:text=${mode}></td>
+			</tr>
+		</table>
+		<!-- </div>
+				</div>
+			</div>
+		</div> -->
+	</div>
+
+
+	<!-- <span id="mode" th:text=${mode} style="display: none"></span> -->
+	<input type="checkbox" id="menu-toggle" />
+	<label for="menu-toggle" class="menu-icon"><i
+		class="fa fa-chevron-right" aria-hidden="true"></i></label>
+	<div class="content-container">
+		<div class="container-fluid">
+
+			<div class="row">
+				<div class="col-md-12">
+					<div id="masterDiv" ondrop="drop(event)"
+						ondragover="allowDrop(event)"
+						style="width: 100%; height: 6000vh; justify-content: flex-start; align-items: flex-start; position: relative;">
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<!--Sidebar Menu-->
+	<div class="slideout-sidebar">
+		<div class="cart-product-list">
+			<div class="card" style="max-height: 600px;">
+				<div class="card-header-d-flex">
+					<div class="customerAmount">
+						<span class="totalSpan">Total Customer Amount: </span> <span
+							class="totalSpanAmt" id="totalCustomerAmount"></span>
+					</div>
+					<div class="customerECAmount" style="display: none">
+						<span class="totalSpan">Total EC Amount: </span> <span
+							class="totalSpanAmt" id="totalECCustomerAmount"></span>
+					</div>
+					<div class="vendorAmount">
+						<span class="totalSpan">Total Wam Amount: </span><span
+							class="totalSpanAmt" id="totalVendorAmount"></span>
+					</div>
+					<div class="vendorWAMAmount" style="display: none">
+						<span class="totalSpan">Total Vendor Amount: </span><span
+							class="totalSpanAmt" id="totalWamVendorAmount"></span>
+					</div>
+				</div>
+				<div class="card-body" style="overflow-y: scroll; height: 500px;">
+					<div id="selecttableview" class="form-group">
+						<input type="radio" value="ec" id="ecradio" name="viewTable"
+							onchange="tableViewChange(this)" checked="checked">&nbsp;<label
+							id="ecradiolb" for="ecradio">View EC</label> &nbsp; <input type="radio"
+							value="report" id="reportradio" name="viewTable" 
+							onchange="tableViewChange(this)">&nbsp;<label for="reportradio"
+							id="reportradiolb">View Report</label>
+					</div>
+					<table class="table table-bordered table-hover table-sm"
+						id="totlValueTable" style="display: none">
+						<thead>
+							<tr>
+								<th>Project Code</th>
+								<td id="cpc" th:text=${cpc} colspan="5"></td>
+							</tr>
+							<tr>
+								<th>CCN</th>
+								<td id="ccn" th:text=${ccn} colspan="5"></td>
+							</tr>
+							<tr>
+								<th>Packages</th>
+								<td id="pkgs" th:text=${pkgs} colspan="5"></td>
+							</tr>
+							<tr>
+								<th>Work Area</th>
+								<td id="workarea" th:text=${workarea} colspan="5"></td>
+							</tr>
+							<tr>
+								<th>Total Project Value</th>
+								<td id="totalvalue" th:text=${totalvalue} colspan="5"></td>
+							</tr>
+
+							<tr>
+								<th>Customer Item Description.</th>
+								<th>Customer Quantity</th>
+								<th>Customer Amount</th>
+								<th>Vendor Item Description.</th>
+								<th>Vendor Quantity</th>
+								<th>Vendor Amount</th>
+							</tr>
+
+
+
+						</thead>
+						<tbody id="amountTableBody"></tbody>
+						<tfoot id="amountTableBodyFooter"></tfoot>
+					</table>
+					<table class="table table-bordered table-hover table-sm"
+						id="ecTable">
+						<thead>
+							<tr>
+								<th>Project Code</th>
+								<td id="cpc" th:text=${cpc} colspan="5"></td>
+							</tr>
+							<tr>
+								<th>CCN</th>
+								<td id="ccn" th:text=${ccn} colspan="5"></td>
+							</tr>
+							<tr>
+								<th>Packages</th>
+								<td id="pkgs" th:text=${pkgs} colspan="5"></td>
+							</tr>
+							<tr>
+								<th>Work Area</th>
+								<td id="workarea" th:text=${workarea} colspan="5"></td>
+							</tr>
+							<tr>
+								<th>Total Project Value</th>
+								<td id="totalvalue" th:text=${totalvalue} colspan="5"></td>
+							</tr>
+
+							<tr>
+								<th>Customer Desc</th>
+								<th>Customer Qty.</th>
+								<th>Customer Amount</th>
+								<th>Work Done</th>
+								<th>Quantity.</th>
+								<th>Amount</th>
+							</tr>
+
+
+
+						</thead>
+						<tbody id="ecTableBody"></tbody>
+						<tfoot id="ecTableBodyFooter"></tfoot>
+					</table>
+
+				</div>
+				<div class="card-footer">
+
+					<Button Type='Button' id='savebutton' class="btn btn-info"
+						style="position: relative; font-size: 20px; cursor: pointer; display: none;">Save</Button>
+
+					<Button Type='Button' id='updatebutton' class="btn btn-info"
+						style="position: relative; font-size: 20px; cursor: pointer; display: none;">Update</Button>
+
+					<Button type="Button" onclick="download()" class="btn btn-info"
+						id="report"
+						style="position: relative; font-size: 20px; cursor: pointer; display: inline-block;">Download
+						Excel</Button>
+					<Button type="Button" onclick="downloadEC()" class="btn btn-info"
+						id="ecreport"
+						style="position: relative; font-size: 20px; cursor: pointer; display: inline-block;">Download
+						EC Excel</Button>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--/Sidebar Menu-->
+	<div id="loader"></div>
+	<div th:replace="fragments::footer"></div>
+</body>
+
+<script type="text/javascript">
+function tableViewChange(radiobtn){
+	console.log("radio value ",radiobtn.value)
+	if(radiobtn.value == 'ec'){
+		$("#ecTable").show();
+		$("#ecreport").show();
+		$("#totlValueTable").hide();
+		$("#ecreport").hide();
+		$("#customerAmount").show();
+		$("#customerEcAmount").hide()
+		$("#vendorWAMAmount").show();
+		$("#vendorAmount").hide()
+	}else if (radiobtn.value == 'report'){
+		$("#ecTable").hide();
+		$("#ecreport").hide();
+		$("#totlValueTable").show();
+		$("#ecreport").show();
+		$("#customerAmount").hide();
+		$("#customerEcAmount").show()
+		$("#vendorWAMAmount").hide();
+		$("#vendorAmount").show();
+		
+	}
+}
+
+	function download() {
+	// Get the table element
+		var table = document.getElementById("totlValueTable");
+		createWorkBook(table);
+	}
+	function downloadEC() {
+			var table = document.getElementById("ecTable");
+			createWorkBook(table);
+	}
+		function createWorkBook(tableName){
+		// Create a new workbook
+		var wb = XLSX.utils.table_to_book(tableName);
+		wb.Sheets[wb.SheetNames[0]]["!rows"] = [ {
+			hpt : 0,
+			hpx : 0,
+			af : {
+				dyDescent : 0
+			},
+			customHeight : 1
+		} ];
+		 Object.keys(wb.Sheets).forEach(sheetName => {
+	            var sheet = wb.Sheets[sheetName];
+	            Object.keys(sheet).forEach(cell => {
+	                if (cell !== "!ref" && cell !== "!merges" && typeof sheet[cell].v === "string") {
+	                    sheet[cell].s = {
+	                        alignment: { vertical: "top", wrapText: true }
+	                    };
+	                }
+	            });
+	        });
+	
+		// Generate Excel file binary data
+		var wbout = XLSX.write(wb, {
+			type : "binary",
+			bookType : "xlsx"
+		});
+	
+		// Convert the binary data to a Blob object
+		var blob = new Blob([ s2ab(wbout) ], {
+			type : "application/octet-stream"
+		});
+	
+		// Create a download link
+		var a = document.createElement("a");
+		a.href = URL.createObjectURL(blob);
+		a.download = $('#cpc').html() + "-" + $('#ccn').html() + ".xlsx";
+	
+		// Append the link to the document body and trigger the download
+		document.body.appendChild(a);
+		a.click();
+		document.body.removeChild(a);
+	}
+	
+	// Utility function to convert string to ArrayBuffer
+	function s2ab(s) {
+		var buf = new ArrayBuffer(s.length);
+		var view = new Uint8Array(buf);
+		for (var i = 0; i < s.length; i++) {
+			view[i] = s.charCodeAt(i) & 0xff;
+		}
+		return buf;
+	}
+	</script>
+
+<script type="text/javascript" src="js/customJs/bhelBBUconnection.js"></script>
+<script type="text/javascript" src="js/customJs/viewWork.js"></script>
+</html>

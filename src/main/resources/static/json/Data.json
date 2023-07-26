@@ -1,0 +1,2664 @@
+var myString = JSON.stringify({
+  "left": [
+    {
+      "name": "100",
+      "value": "100",
+      "description": "EARTH WORK: Earth work In excavation, backfilling and disposal including all labour, equipments etc complete as per specification, drawing and as directed by engineer- in-charge for the following.",
+      "childList": [
+        {
+          "name": "101",
+          "value": "101",
+          "description": "Earth work in excavation in all types of soil including ash which can be excavated by any means including setting out, levelling, dewatering (but excluding special type of dewatering viz. well point method), shoring \u0026 strutting (wherever required), dressing the sides \u0026 bottom, all lifts, ramming/ compacting the excavated bottom, stacking, disposal of surplus excavated materials within a lead upto 1Km, spreading/ levelling of disposed materials etc all complete for following depths below ground level. [Measurement of excavation shall be paid as per actual quantity at site and as per clause 5.2.0 of Technical Specification, Section D, Sub-Section D1 OF VOL-II B)",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Depth from ground level but not exceeding  2 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "Depth exceeding  2 m but  not  exceeding 4 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "Depth exceeding  4 m but  not  exceeding 6 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "d",
+              "value": "d",
+              "description": "Depth exceeding  6 m but  not  exceeding 8 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "e",
+              "value": "e",
+              "description": "Depth exceeding 8 m but  not  exceeding 10 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "f",
+              "value": "f",
+              "description": "Depth exceeding  10 m but  not  exceeding 15 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "g",
+              "value": "g",
+              "description": "Depth exceeding  15 m but  not  exceeding 20 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "h",
+              "value": "h",
+              "description": "Depth exceeding 20 m",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "101A",
+          "value": "101A",
+          "description": "Earth work in excavation (in restricted areas) in all types of soil including ash  which can be excavated by any means for any depth below ground level including setting out, levelling, dewatering (but excluding special type of dewatering viz. well point method), temporary Steel sheet piling for earth protection around foundation, dressing the bottom, all lifts, ramming / compacting the excavated bottom, stacking, disposal of surplus excavated materials within a lead up to 1 km, spreading / levelling of disposed materials etc all complete. Rate for providing temporary steel sheet piling is payable seperately under item no A2516. [Measurement of excavation quantity as per clause 5.2.0 of Technical Specification, Section D, Sub-Section D1 OF VOL-II B)",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Depth from ground level but not exceeding  2 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "Depth exceeding  2 m but  not  exceeding 4 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "Depth exceeding  4 m but  not  exceeding 6 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "d",
+              "value": "d",
+              "description": "Depth exceeding  6 m but  not  exceeding 8 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "e",
+              "value": "e",
+              "description": "Depth exceeding 8 m but  not  exceeding 10 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "f",
+              "value": "f",
+              "description": "Depth exceeding  10 m but  not  exceeding 15 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "g",
+              "value": "g",
+              "description": "Depth exceeding  15 m but  not  exceeding 20 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "h",
+              "value": "h",
+              "description": "Depth exceeding 20 m",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "102",
+          "value": "102",
+          "description": "Extra over ST No. 101 \u0026 101A for dewatering of ground water by well point method as per IS 9759."
+        },
+        {
+          "name": "103",
+          "value": "103",
+          "description": "Earth work in excavation in soft rock (rock without any recovery of exacavated materials in the form of hard stone/ boulder) including weathered rock which can be excavated by means of crow bar, pick axe, pneumatic rock breaker attachment with excavator machine etc but does not require chiselling or blasting including setting out, levelling, dewatering (wherever required), shoring \u0026 strutting (wherever required), dressing the sides \u0026 bottom, all lifts, ramming/ compacting the excavated bottom, stacking, disposal of surplus excavated materials within a lead upto 1 Km, spreading / levelling of disposed materials etc all complete for following depths below ground level. [Measurement of excavation shall be paid as per actual quantity at site and as per clause 5.2.0 of Technical Specification, Section D, Sub-Section D1 OF VOL-II B)",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Depth from ground level but not exceeding  2 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "Depth exceeding  2 m but  not  exceeding 4 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "Depth exceeding  4 m but  not  exceeding 6 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "d",
+              "value": "d",
+              "description": "Depth exceeding  6 m but  not  exceeding 8 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "e",
+              "value": "e",
+              "description": "Depth exceeding  8 m but  not  exceeding 10 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "f",
+              "value": "f",
+              "description": "Depth exceeding  10 m but  not  exceeding 15 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "g",
+              "value": "g",
+              "description": "Depth exceeding  15 m but  not  exceeding 20 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "h",
+              "value": "h",
+              "description": "Depth exceeding 20 m",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "104",
+          "value": "104",
+          "description": "Earth work in excavation upto any depth below ground level in hard rock requiring blasting (but excluding controlled blasting) including wedging, line drilling, pre shearing etc as required for grading, setting out, levelling, dewatering (wherever required), dressing the sides \u0026 bottom, all lifts, necessary licenses/ statuatory clearances for blasting, supply, storage \u0026 handling of blasting materials, stacking/ disposal of surplus excavated material within a lead upto 1 Km, spreading / levelling of disposed materials etc all complete as per specification, drawing and as directed by the engineer-in-charge. [Measurement of excavation shall be paid as per actual quantity at site and as per  clause 5.2.0 of Technical Specification, Section D, Sub-Section D1 OF VOL-II B)",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Depth from ground level but not exceeding  2 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "Depth exceeding  2 m but  not  exceeding 4 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "Depth exceeding  4 m but  not  exceeding 6 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "d",
+              "value": "d",
+              "description": "Depth exceeding  6 m but  not  exceeding 8 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "e",
+              "value": "e",
+              "description": "Depth exceeding  8 m but  not  exceeding 10 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "f",
+              "value": "f",
+              "description": "Depth exceeding  10 m but  not  exceeding 15 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "g",
+              "value": "g",
+              "description": "Depth exceeding  15 m but  not  exceeding 20 m",
+              "gGrandchild": []
+            },
+            {
+              "name": "h",
+              "value": "h",
+              "description": "Depth exceeding 20 m",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "107",
+          "value": "107",
+          "description": "Earthwork in Back filling upto any depth below ground level around foundations, plinths, trenches, drains etc to proper grade and level in layers not exceeding 250 mm thickness using/ with selected materials from compulsorily excavated  earth available within a lead upto 1 Km and compacted as specified including re-excavation of stacked earth, watering, ramming/ compaction by manual/ mechanical means, dressing etc all complete.for the following. [Measurement of Backfilling shall be paid as per excavation quantity after deduction for concrete etc.)",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Each layer compacted so as to achieve at least 90% maximum dry density as per IS-2720 (Part-VII)",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "Each layer compacted so as to achieve at least 95% maximum dry density as per IS-2720 (Part-VII)",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "107A",
+          "value": "107A",
+          "description": "Earthwork in Back filling upto any depth below ground level around foundations, plinths, trenches, drains etc to proper grade and level in layers not exceeding 300 mm loose thickness using/ with selected materials from compulsorily excavated earth available within a lead upto 1 Km and compacted as specified including re-excavation of stacked earth, watering, ramming/ compaction by manual/ mechanical means, dressing etc all complete.for the following. [Measurement of Backfilling shall be paid as per excavation quantity after deduction for concrete etc.)",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Each layer compacted so as to achieve at least 90% maximum dry density as per IS-2720 (Part-VII)",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "108",
+          "value": "108",
+          "description": "Earthwork in Back filling upto any depth below ground level around foundations, plinths, trenches, drains etc to proper grade and level in layers not exceeding 250 mm thickness using/ with selected materials directly from excavation within a lead upto 1Km and compacted as specified including re-excavation of stacked earth, watering, ramming/ compaction by manual/ mechanical means, dressing etc all complete.for the following. [Measurement of Backfilling shall be paid as per excavation quantity after deduction for concrete etc.)",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Each layer compacted so as to achieve at least 90% maximum dry density as per IS-2720 (Part-VII)",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "Each layer compacted so as to achieve at least 95% maximum dry density as per IS-2720 (Part-VII)",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "109",
+          "value": "109",
+          "description": "Extra over ST No. 101, 101A, 103 to 108 and 2401 for carriage of material/earth  for every 500m or part thereof beyond an initial lead of 1km.",
+          "grandChild": []
+        },
+        {
+          "name": "108",
+          "value": "108",
+          "description": "Earthwork in Back filling upto any depth below ground level around foundations, plinths, trenches, drains etc to proper grade and level in layers not exceeding 250 mm thickness using/ with selected materials directly from excavation within a lead upto 1Km and compacted as specified including re-excavation of stacked earth, watering, ramming/ compaction by manual/ mechanical means, dressing etc all complete.for the following. [Measurement of Backfilling shall be paid as per excavation quantity after deduction for concrete etc.)",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Each layer compacted so as to achieve at least 90% maximum dry density as per IS-2720 (Part-VII)",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "Each layer compacted so as to achieve at least 95% maximum dry density as per IS-2720 (Part-VII)",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "109",
+          "value": "109",
+          "description": "Extra over ST No. 101, 101A, 103 to 108 and 2401 for carriage of material/earth  for every 500m or part thereof beyond an initial lead of 1km.",
+          "grandChild": []
+        },
+        {
+          "name": "111",
+          "value": "111",
+          "description": "Supplying and filling sand upto any depth under floors, around foundations, plinths etc. in layers not exceeding 250 mm  thickness and compacted so as to achieve at least 80% relative density as per IS-2720 (Part-XIV) including spreading, watering, ramming/ compaction by manual / mechanical means, dressing, royalty (if any) etc. all complete."
+        }
+      ]
+    },
+    {
+      "name": "1000",
+      "value": "1000",
+      "description": "BRICKWORK:  Brickwork masonry including all labour, material (unless otherwise specified in BOQ/ contract specification), equipment, transportation, handling, scaffolding etc. at all levels as per specification, drawings and as directed by engineer - in - charge.\n(Supply of cement is in scope of contractor)",
+      "childList": [
+        {
+          "name": "1001",
+          "value": "1001",
+          "description": "Providing brick work in cement  mortar 1:6  (1 part cement 6 parts coarse sand) in walls, chambers etc. in thickness varying from 230mm to 460mm at all depths, places and positions below plinth including raking out joints, curing, scaffolding etc. complete excluding plastering and painting.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Using  fly ash lime bricks confirming to IS 12894 with crushing strength of 75 kg/cm2 (including cost of cement for brick making)",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "Using  burnt clay bricks of class designation 7.5 of nominal dimension",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "1002",
+          "value": "1002",
+          "description": "Providing brick work in cement  mortar 1:6 (1 cement  6 coarse sand) in walls, chambers etc. in thickness 230mm at all heights, places and position above plinth including raking out joints, curing, scaffolding etc complete excluding plastering and painting.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Using  fly ash lime bricks confirming to IS 12894 with crushing strength of 75 kg/cm2(including cost of cement for brick making)",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "1003",
+          "value": "1003",
+          "description": "Providing  brick  work in cement mortar 1:4  (1 cement 4 coarse sand) in partition walls, chambers etc. in thickness 115mm at all heights, places and position above or below plinth/graded level including providing two nos. 6 mm diameter MS bars at every third layer, raking out joints, curing, scaffolding etc complete excluding plastering and painting as per specification.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Using  fly ash lime bricks confirming to IS 12894 with crushing strength of 75 kg/cm2 (including cost of cement for brick making)",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "1012",
+          "value": "1012",
+          "description": "Breaking of existing brick work at all levels including plastering, removing the rubbish up to a distance of 1 Km including transportation, loading, unloading etc. all complete as directed by the engineer."
+        },
+        {
+          "name": "1100",
+          "value": "1100",
+          "description": "DAMP PROOF COURSE: Damp proof course including all labour, material (unless otherwise specified in BOQ/ contract specification), equipment, transportation, handling, shuttering, centering, curing etc at all level as per specification, drawings and as directed by engineer - in - charge.\n(Supply of cement is in scope of contractor)"
+        },
+        {
+          "name": "1101",
+          "value": "1101",
+          "description": "Providing Damp Proof Course of following thickness with 1:1.5:3 concrete (10mm and down graded aggregate) with 2% of approved admixture  of water proofing compound all complete. Two layers of hot bitumen coating 85/25 grade as per IS:702 @ 1.7Kg./sqm shall be applied one before \u0026 one after the DPC. ",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": " 40mm thick",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": " 50mm thick",
+              "gGrandchild": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1200",
+      "value": "1200",
+      "description": "PLASTERING: Cement mortar plaster including making grooves wherever required including all labour, material (unless otherwise specified in BOQ/contract specification), scaffolding, curing etc at all level as per specification, drawings and as directed by engineer - in - charge.\n(Supply of cement is in scope of contractor)",
+      "childList": [
+        {
+          "name": "1201",
+          "value": "1201",
+          "description": "Providing 18mm thick plaster in two layers outside the building/boundary wall in cement mortar 1:6  on walls, finished to a smooth finish including providing 3mmx3mm size grooves at junctions of two dissimilar materials all complete"
+        },
+        {
+          "name": "1201A",
+          "value": "1201A",
+          "description": "Providing 20mm thick plaster in two layers outside the building/boundary wall in cement mortar 1:6 on walls, finished to a smooth finish including providing 3mmx3mm size grooves at junctions of two dissimilar materials all complete"
+        },
+        {
+          "name": "1203",
+          "value": "1203",
+          "description": "Providing 12mm thick plaster in cement mortar 1:6  on walls with rough finish all complete."
+        },
+        {
+          "name": "1204",
+          "value": "1204",
+          "description": "Providing 6mm thick plaster on ceiling in cement mortar 1:4 finished  to a smooth surface all complete."
+        }
+      ]
+    },
+    {
+      "name": "1300",
+      "value": "1300",
+      "description": "FINISHES TO CONCRETE / PLASTERED SURFACES: Finishes, painting to concrete, plastered surfaces including all labour, material (unless otherwise specified in BOQ/contract specification), equipment, surface preparation, scaffolding etc. at all level as per specification, drawings and as directed by engineer - in - charge.",
+      "childList": [
+        {
+          "name": "1301",
+          "value": "1301",
+          "description": "Two or more coats of white wash/ colour wash as per IS 627 of approved brand and manufacture to give an even shade including a priming coat as per specifications."
+        },
+        {
+          "name": "1304",
+          "value": "1304",
+          "description": "Two or more coats of acrylic distemper of approved brand and manufacture to give an even shade including a priming coat with distemper primer complete."
+        },
+        {
+          "name": "1305",
+          "value": "1305",
+          "description": "Providing and applying two or more coats of acrylic emulsion paint as per IS 5411 of approved brand, shade and  manufacture to give smooth, hard, durable \u0026 glossy finish over a coat of primer over prepared plaster surface as per manufacturers guideline."
+        },
+        {
+          "name": "1306",
+          "value": "1306",
+          "description": "Providing and applying 2 or more coats of acid/ alkali resistant paint of approved brand and colour  to floors, walls and ceiling including preparation of surface to receive paint, providing and  applying bitumen primer confirming to IS 158 complete all as per manufacturer\u0027s recommendations and as approved by  engineer, at all heights above or below grade level, complete as per specifications."
+        },
+        {
+          "name": "1316",
+          "value": "1316",
+          "description": "Providing and applying 2 mm thick plaster of paris punning on walls including preparation of surface, staging, etc. to achieve a smooth even surface all complete as per specification and as directed by Engineer."
+        },
+        {
+          "name": "1317",
+          "value": "1317",
+          "description": "Providing and applying 3 mm thick white cement punning on walls including preparation of surface, staging, etc to achieve a smooth even surface all complete as per specification and as directed by engineer."
+        },
+        {
+          "name": "1319",
+          "value": "1319",
+          "description": "Providing and applying two or more coats of Acrylic based weather coat paint of  approved brand and manufacture and required shade over one coat of primer  after necessary cleaning/ washing, preparing the surface using coir brush/ wire brush, sand paper, including filling of cracks with putty wherever required etc. all complete to give smooth, hard, durable \u0026 glossy finish over a coat of primer over prepared plaster surface as per manufacturers guidelines. The final finished coating shall be fungus resistant, UV resistant, water repellant and extremely durable with color fastness as per specification."
+        }
+      ]
+    },
+    {
+      "name": "1400",
+      "value": "1400",
+      "description": "FLOORING AND SKIRTING: Flooring and skirting at all level including base layer, labour, material (unless otherwise specified in BOQ/contract specification), equipments, transportation, handling, curing, polishing etc. at all level as per specification, drawings and as directed by engineer - in - charge.\n(Supply of cement is in scope of contractor)",
+      "childList": [
+        {
+          "name": "1417",
+          "value": "1417",
+          "description": "Providing and laying vitrified ceramic tiles of matt finish of size 600x600mm from reputed / approved manufacturercomplete including underbed of cement mortar 1:3 minimum 20mm thick underbed for flooring and 12mm thick underbed for dado/skirting with neat cement slurry @3.3Kg/sqm etc. all complete for following",
+          "grandChild": [
+            {
+              "name": "b",
+              "value": "b",
+              "description": "10mm thick tiles In flooring ",
+              "gGrandchild": []
+            },
+            {
+              "name": "d",
+              "value": "d",
+              "description": "10mm thick tiles In skirting and dado upto specific height",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "1401",
+          "value": "1401",
+          "description": "Providing and laying 50 mm thick heavy duty cement concrete in flooring with metallic hardener pigmented topping 12mm thick uniform graded treated iron particles in flooring. Under  layer of 38mm thick cement concrete mix 1:2:4 (1 cement: 2 sand : 4 stone aggregates 12.5 mm  well graded) and top layer of 12mm thick metallic concrete of mix 1:2 (1 cement hardner mix with approved quality metallic hardening compound :2 stone aggregate 6mm nominal size) by volume including cement slurry, rounding off edges,glass strips etc. all complete for following (Quoted item rate shall be inclusive of providing glass joint strips):"
+        },
+        {
+          "name": "1406",
+          "value": "1406",
+          "description": "Providing and laying polished Kota stone 18mm to 20mm thk in flooring. Under bed shall  average 30mm thk of 1 cement : 2 sand : 4 stone aggregates by volume and brought to proper level. The kota stone slabs/ tiles laid over under  bed, pressed and tapped down with wooden mallet to the proper level, lifted and pressed again with thick cement slurry @4.4kg/sqm spread over the surface with  fine joint finished including pigments, curing, grinding, granite polishing etc. all complete."
+        },
+        {
+          "name": "1408",
+          "value": "1408",
+          "description": "Providing polished Kota stone 18mm to 20mm thk in skirting projecting 6mm from adjacent plaster minimum 12 mm thick cement mortar bedding of 1:3 (1 cement : 3 sand) with thick cement slurry @4.4kg/sqm spread over the surface with fine joint finished including cutting brickwall upto the required depth, edging, finishing etc. all complete."
+        },
+        {
+          "name": "1412",
+          "value": "1412",
+          "description": "Providing and laying 18-20mm thick polished Granite stone of approved color and texture in flooring with brass/ stainless steel strips. Under bed shall  average 30 mm thick of 1 cement : 2 sand : 4 stone aggregate by volume and brought to proper level. The granite stone slabs/tiles laid over under bed, pressed and tapped down with wooden mallet to the proper level, lifted and pressed again with thick cement slurry @3.3kg/sqm spread over the surface with fine joint finished including pigments, curing, grinding, granite polishing etc. all complete."
+        },
+        {
+          "name": "1414",
+          "value": "1414",
+          "description": "Providing and laying polished Granite stone 18-20mm thk in skirting and dado with 6mm thick projection from adjacent plaster minimum 12 mm thick cement mortar bedding of 1:3 (1 cement : 3 sand) with thick cement slurry @3.3kg/sqm  spread over the surface with fine joint finished including cutting brickwall upto the required depth, edging, finishing etc. all complete. including mortar, cement slurry, pigments, curing, grinding,moulding, granite polishing etc. all complete."
+        },
+        {
+          "name": "1417",
+          "value": "1417",
+          "description": "Providing and laying vitrified ceramic tiles of matt finish of size 600x600mm from reputed / approved manufacturercomplete including underbed of cement mortar 1:3 minimum 20mm thick underbed for flooring and 12mm thick underbed for dado/skirting with neat cement slurry @3.3Kg/sqm etc. all complete for following",
+          "grandChild": [
+            {
+              "name": "b",
+              "value": "b",
+              "description": "10mm thick tiles In flooring ",
+              "gGrandchild": []
+            },
+            {
+              "name": "d",
+              "value": "d",
+              "description": "10mm thick tiles In skirting and dado upto specific height",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "1417A",
+          "value": "1417A",
+          "description": "Supply, erection, installation of Electric insulated flexible PVC sheet 6mm thick as per IS: 15625-2006 "
+        },
+        {
+          "name": "1418",
+          "value": "1418",
+          "description": "Providing and laying 10 mm thk non-skid fully vitrified tiles of make \u0027MARBONITE\u0027 or \u0027FERRASTONE of BOSS Profile limited\u0027 or equivalent in flooring and skirting over 30 mm thick underbed of 1 part cement and 3 parts coarse sand by weight mixed with sufficient water, cement slurry 3.3kg/sqm complete as per specification laid in pattern of following sizes",
+          "grandChild": [
+            {
+              "name": "b",
+              "value": "b",
+              "description": "600X600 mm",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "1422",
+          "value": "1422",
+          "description": "Providing  \u0026  fixing Acid / Alkali resistant (Chemical resistant) tiles confirming to IS:4457 in flooring/ Dado and shall be laid over bitumastic lining of min 12mm thick (to be laid in layers of 6mm each). The tiles shall be applied with 6mm thick Potassium Silicate bedding mortar as per IS:4441, 4443 \u0026 4832 and  including preparation of surface, application of bitumen primer, curing etc. all complete for following thicknesses. The tiles should be abrasion resistant \u0026 durable.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "20mm thick ",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "1423",
+          "value": "1423",
+          "description": "Providing  \u0026  fixing Acid / Alkali resistant (Chemical resistant) tiles confirming to IS:4457 in flooring/ Dado beded and jointed with epoxy mortar all complete for following thicknesses. The tiles should be abrasion resistant \u0026 durable.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "20mm thick ",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "1427",
+          "value": "1427",
+          "description": "Providing and fixing glazed designer ceramic tiles of approved color and design of size 200x300mm / 300x300mm in dado of approved size, projecting 6mm uniformly from adjacent plaster or wall finish. The mix for 20mm thick underbed plaster shall consist of 1part cement and 3 parts sand by weight. fairly moist but firm, tiles shall be pressed over under bed by applying cement slurry @ 3.3kg/sqm including pigments, curing etc all complete for following thicknesses:",
+          "grandChild": [
+            {
+              "name": "b",
+              "value": "b",
+              "description": "7mm thick",
+              "gGrandchild": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1500",
+      "value": "1500",
+      "description": "ROOFING/ SIDE CLADDING: Roofing/ side cladding work including all labour, material (unless otherwise specified in BOQ/ contract specification), equipment, transportation, handling, scaffolding, laps, hooks, washers, corner pieces etc. at all level as per specification, drawings and as directed by engineer - in - charge.",
+      "childList": [
+        {
+          "name": "1502",
+          "value": "1502",
+          "description": "Transportation from store, erection and fixing permanently color coated galvanised MS troughed metal sheet decking plate of approved colour (as per ST No. S 1502 of SCH-4 of Vol-III: Supply) over roof purlins for cast-in-situ roof slab as per relevant IS code and specification and shall serve as permanent shuttering to the roof slab including fixing (exposed surface facing operating floor shall be as per ST S 1502 of SCH-4 of Vol-III) of plates to purlins, side lapping, end lapping etc. all complete for below mentioned spans including fixing of sheet to purlin with self drilling white zinc plated heat treated carbon steel screws of minimum 5.6 mm dia @ 260mm c/c in the trough and stich screws  between two adjacent sheets and sealing with epoxy sealant. (Measurement of profile sheeting shall be of the plan area of roof covered by MS trough metal decking and cost against supply of MS troughed metal sheet decking plate is payable seperately under ST S 1502 of SCH-4 of Vol-III:Supply).",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Span Upto 1800mm ",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "Span Exceeding 1800mm and upto 2500 mm",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "1512",
+          "value": "1512",
+          "description": "Providing and fixing insulation of resin bonded mineral wool of 50 mm nominal thickness conforming to IS 8183 having a density of 32 kg/cum glass wool or 48 kg/cum for rock wool, for cladding/under deck insulation including wrapping in black polythene black supported over weld mesh 75X75X1.6 MM dia to hold in position and application of glue \u0026 tying with lacing wire, for glass/rock wool as per manufacturer\u0027s recommendation.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "For insulation in Sandwitch Cladding",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "1503",
+          "value": "1503",
+          "description": "Providing and fixing shear connectors of mild steel studs having 16mm dia and minimum 75 mm projected length above purlin passing through metal decking as per relevant IS codes and specification."
+        },
+        {
+          "name": "1508",
+          "value": "1508",
+          "description": "Transportation from store and fixing of Inner sheet of Permanent colour coated metal cladding with  troughed M.S. sheets (as per ST No. S 1508 of Sch-4 of Vol-III: Supply) including fixing (exposed face \u0026 other face of sheet shall be as per ST S 1508 of SCH-4 of Vol-III) to supports/ rails by concealed fixing system (Z Purlin), corrosion resistant self tapping/ self drilling type fasteners with suitable cap, flashing etc. all complete. The sheet shall be fixed directly to side runners and Z spacers as per IS : 277. The sheet shall be fixed at the rate not more than 1500mm center to center to hold the insulation and external sheeting. [Measurement of Cladding sheet shall be the covered area of wall excluding openings. No separate payment shall be given for flushing at corner and around opening. Cost against supply of Permanent colour coated metal cladding with  troughed M.S. sheets is payable seperately under ST S 1508 of SCH-4 of Vol-III:Supply).]."
+        },
+        {
+          "name": "1512",
+          "value": "1512",
+          "description": "Providing and fixing insulation of resin bonded mineral wool of 50 mm nominal thickness conforming to IS 8183 having a density of 32 kg/cum glass wool or 48 kg/cum for rock wool, for cladding/under deck insulation including wrapping in black polythene black supported over weld mesh 75X75X1.6 MM dia to hold in position and application of glue \u0026 tying with lacing wire, for glass/rock wool as per manufacturer\u0027s recommendation.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "For insulation in Sandwitch Cladding",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "1519",
+          "value": "1519",
+          "description": "Transportation from store and erection double skin insulated wall cladding system (material as per ST No. S-ISG 1519 of Sch-4 of Vol-III: Supply). The steel sheet shall be fastened with nominal 40 μm zinc coated or nominal 25 μm Zinc-Tin alloy coated, Hex head, self-drilling screw as per AS 3566-2002 Class 3 fasteners with EPDM washer and also as per the requirement. The inner sheet shall be fixed to the structure by means of self drilling fasteners no. 12-24 x 25 mm conforms to AS: 3566 Class-3 long at valley. Sub- girts of size 50mm x 50mm x 50mm manufactured out of 16G GI (1.6mm GI) ‘Z’ shape would be fixed the inner sheeting on face side at runner locations and outer sheeting shall be fixed with the help of concealed compatible interlocking clips and wafer head zinc coated self drilling fasteners/ screws 4.2 x 25mm long on to the sub-girts. The clips shall be concealed and no fasteners are to penetrate the external sheeting.\n(Cost against supply of sheet of double skin insulated wall cladding system is payable seperately under ST S-ISG 1519 of SCH-4 of Vol-III:Supply)"
+        },
+        {
+          "name": "1520",
+          "value": "1520",
+          "description": "Providing \u0026 fixing permanently at all heights and elevations, troughed sheets over roof purlins/ beams/ side runners etc  for roofing and side cladding (internal \u0026 external) including all labour, material, equipment, transportation, handling, scaffolding, laps, hooks, washers, corner pieces etc. at any level as per specification, drawings and as directed by engineer - in - charge. Quoted rate shall include cost of all labour, material, tools and plants, consumables, lead, lift etc complete. Fixing fire resistant and UV resistant polycarbonate translucent sheets of minimum 3MM thickness on roof \u0026 side cladding as per the specification and approved drawings and directions of engineer in charge"
+        }
+      ]
+    },
+    {
+      "name": "1600",
+      "value": "1600",
+      "description": "FALSE CEILING: False ceiling including all labour, material (unless otherwise specified in BOQ/ contract specification), equipment, transportation, handling, suspension system etc at all level as per specification, drawings and as directed by engineer - in - charge.",
+      "childList": [
+        {
+          "name": "1603",
+          "value": "1603",
+          "description": "Providing and fixing permanently colour coated aluminium false ceiling of approved colour and Luxalon 84 C or approved equivalent with corrosion resistant aluminium alloy panels of minimum thickness 0.5mm including 50mm thick mineral wool insulation (density 48 kg/cum) conforming to IS:8183 bound in polythene bags on top of panels. Additional hangers and height adjustment clips shall be provided for return air grills, light fixtures, A.C. ducts etc all complete. Suitable M.S. channel grid with minimum MC 75 shall also be provided above the false ceiling level for movement of personnel to facilitate maintenance of lighting fixtures, AC ducts etc. (Materials for structural platform grid made up of MS Channels/ Beams/ Angles shall be supplied by BHEL and shall be paid under ST No 2301)"
+        },
+        {
+          "name": "1607",
+          "value": "1607",
+          "description": "Providing and Fixing 12mm thick Gypsum board plain/ mineral fibre based acoustic ceiling board in plan or elevation with aluminium grid, metal suspension system, anchor fastener adjustable hangers etc. including two or more coats of acrylic emulsion paint of approved colour to give an even shade with smooth finish all complete as per architectural design and detail. Metal suspension system as per ASTM C-635 shall be hot dipped M.S.galvanized (grade 180 as per is :277) and nominal size of T-section shall be 24 x 38 mm or 24 x 25 mm cross runners. 24mm wide exposed flange surface shall be permanently color coated. Suspension system shall be as per manufaturer\u0027s specification. Movement platform of structural steel shall be provided if required for the  movement of personnel to facilitate maintenance of lighting fixtures, AC ducts etc. (Structural steel works for platform for movement is separately payable under relevant items of BOQ). Work shall include 25mm thick resin bonded mineral wool  insulation (as per IS:8183) bound in polythene bags on top of ceiling. The work to be complete as per specifications, drawings and direction of engineer. Payment terms -\na) On receipt of Gypsum board false ceiling at site - 50%;\nb) On completion of erection \u0026 fixing - 50%."
+        }
+      ]
+    },
+    {
+      "name": "1700",
+      "value": "1700",
+      "description": "RAIN WATER DOWN TAKE PIPES: Rain water down take pipes at all level including all labour, material (unless otherwise specified in BOQ/contract specification), transportation, 2 coats of approved paint over one primary coat, fixtures, accessories etc as per specification, drawings and as directed by engineer - in - charge.",
+      "childList": [
+        {
+          "name": "1707",
+          "value": "1707",
+          "description": "Providing and fixing GI down take pipes conforming to IS:1239 /IS:3589 of medium duty all complete for following diameters.",
+          "grandChild": [
+            {
+              "name": "b",
+              "value": "b",
+              "description": "150 mm Dia",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "1709",
+          "value": "1709",
+          "description": "Providing and fixing HDPE down take pipes conforming to IS:4984 as per specification of following diameters.",
+          "grandChild": []
+        },
+        {
+          "name": "1704",
+          "value": "1704",
+          "description": "Transportation from store and fixing galvanised MS down take pipes of 150 mm dia- Medium quality (material as ST No. S  1704 of SCH-4 of Vol-III: Supply)as per IS:1239(part-I) all complete. (Cost of galvanised MS downtake pipes payable seperately under ST S 1704 of SCH-4 of Vol-III:Supply)"
+        },
+        {
+          "name": "1707",
+          "value": "1707",
+          "description": "Providing and fixing GI down take pipes conforming to IS:1239 /IS:3589 of medium duty all complete for following diameters.",
+          "grandChild": [
+            {
+              "name": "b",
+              "value": "b",
+              "description": "150 mm Dia",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "1709",
+          "value": "1709",
+          "description": "Providing and fixing HDPE down take pipes conforming to IS:4984 as per specification of following diameters.",
+          "grandChild": []
+        }
+      ]
+    },
+    {
+      "name": "1800",
+      "value": "1800",
+      "description": "MISCELLANEOUS: Miscellaneous works including all labour, material (unless otherwise specified in BOQ/ contract specification), equipment etc. at all level unless otherwise specified as per specification, drawings and as directed by engineer - in - charge.",
+      "childList": [
+        {
+          "name": "1801A",
+          "value": "1801A",
+          "description": "Providing and Filling in trenches, plinths, area paving and other underground structures with graded stone aggregate of size range 63 mm to 45 mm in layers not exceeding 275 mm compacted thickness including breaking of stone boulders to required sizes, filling the interstices with well graded selected sand and compacting to 90% of original volume of stone stack for all lifts etc. all complete. Payment shall be made for the measurement of the volume of the compacted fill."
+        },
+        {
+          "name": "1801B",
+          "value": "1801B",
+          "description": "Providing and Filling in trenches, plinths, area paving and other underground structures with graded stone aggregate of size range 63 mm to 45 mm in layers not exceeding 150 mm compacted thickness including breaking of stone boulders to required sizes, filling the interstices with selected moorum and compacting to 90 % of original volume of stone stack for all lifts etc. all complete. Payment shall be made for the measurement of the volume of the compacted fill."
+        },
+        {
+          "name": "1807",
+          "value": "1807",
+          "description": "Anti termite chemical treatment of soil with Chlorpyriphos/ Lindane E.C. 20% with 1% concentration conforming to IS:8944 and as per IS 6313 all complete. (Plinth area of building at ground floor only shall be measured for payment)."
+        },
+        {
+          "name": "1821",
+          "value": "1821",
+          "description": "Sprinkling of water by water tanker fitted with perforated GI pipe (portable tanker minimum 3000 litre capacity) for roads and miscellaneous area within plant boundary, for dust supression and reduction of suspended material at site for day to day work, as directed by BHEL site engineer (water for this purpose shall be provided by BHEL free of cost and utilisation of machine will be in terms of Tank-hour put in actual use for water sprinkling)."
+        }
+      ]
+    },
+    {
+      "name": "2000",
+      "value": "2000",
+      "description": "FENCING AND GATES: Fencing and gates including all labour, material (unless otherwise specified in BOQ/ contract specification), equipment etc at all level as per specification, drawings and as directed by engineer - in - charge.",
+      "childList": [
+        {
+          "name": "2001",
+          "value": "2001",
+          "description": "Supplying and erecting in position 2.4 m high PVC coated gavanised chain linked fencing of minimum 8 gauge (including PVC coating) of mesh size 75mm x 75mm. The diameter of the hot dip galvanised steel wire for chain link fencing excluding PVC coating shall not be less than 12 gauge. GI barbed wire fencing of height of 600 mm confirming to IS 298 at top of chain link fencing shall be provided with 4 strands of  barbed wire hot dip galvanised wire of 12G comprising of 2 ply of wires with barbs of 16G spaced at 100mm. Cost to include for GI hook bolts, rings \u0026 washers, hot dip galvanised tension wires, 25X6 mm GI flat stretcher bar at end posts, accessories etc. all complete. (Structural post shall be paid separately under item 2007)"
+        },
+        {
+          "name": "2003",
+          "value": "2003",
+          "description": "Supplying and erecting in position 2.4 m high PVC coated gavanised chain linked fencing of minimum 8 gauge (including PVC coating) of mesh size 75mm x 75mm. The diameter of the hot dip galvanised steel wire for chain link fencing excluding PVC coating shall not be less than 12 gauge. Concertina of height of 600 mm at top of chain link fencing shall be provided with all accessories. Concertinal shall be from tensile serrated galvanised wire (HTSW) made with wire diameter of 2.5 mm which will be stretched to 6m and attached on two strands of galvanised HTSSW (high tensile spring steel wire) of 2.5mm dia by means of clips at 1m interval. These two HTSSW strands will be attached to the fence posts/ angles with 12 mm security fasteners. Cost to include for GI hook bolts, rings \u0026 washers, hot dip galvanised tension wires, 25X6 mm GI flat stretcher bar at end posts etc. all complete. (Structural post shall be paid separately under ST No. 2007)"
+        },
+        {
+          "name": "2007",
+          "value": "2007",
+          "description": "Supply and fixing of hot dip galvanised mild steel posts for fencing. Rate of zinc coating shall not be less than 710 g/m2 on steel posts. "
+        },
+        {
+          "name": "2009",
+          "value": "2009",
+          "description": "Supply, fabrication and installing in position and testing galvanised MS Gates out of channels, joists, angles, flats, plates, pipes, welded steel wire mesh \u0026 sheets including stiffners, bracings, fabricated hinges, MS Aldrops with locking arrangement, tempered steel pivot, guide track of MS Tee, bronze aluminium ball bearing arrangements, castor wheels, paintings etc. all complete."
+        }
+      ]
+    },
+    {
+      "name": "200A",
+      "value": "200A",
+      "description": "CONCRETE WORK: Transportation from Batching Plant and placing concrete work including cost of labour, materials (unless otherwise specified in BOQ/ contract specification) and equipment for handling, transportation, placing, vibrating and curing (excluding cost of centering, shuttering and reinforcement) with mechanised equipments like transit mixer, concrete pump etc. complete as per drawing, specifications and as per direction of engineer in charge for the following.\n(RMC WITH REQUIRED ADDITIVES/ PLASTICIZER/ SUPERPLASTICIZER SHALL BE PROVIDED BY BHEL AT BATCHING PLANT IN PROJECT PREMISES. TRANSPORTATION FROM THE BATCHING PLANT UP TO THE POURING POINT SHALL BE UNDER THE SCOPE OF CONTRACTOR)",
+      "childList": [
+        {
+          "name": "205A",
+          "value": "205A",
+          "description": "Design Mix cement concrete conforming to IS:456 \u0026 IS 10262-2009 for reinforced concrete works with coarse sand  and graded hard stone aggregate of 20mm nominal size in foundations/ substructure, grade slab, paving, drains, under floors etc at all level below finished floor level, any shape, position or thickness etc all complete as per specification \u0026 drawing for the  following.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "M 20 Grade",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "M 25 Grade",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "M 30 Grade",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "201A",
+          "value": "201A",
+          "description": "Concrete  of grade M7.5 (1 part cement, 4 part sand, 8 parts of 40 mm graded aggregate by volume) as mass filling course, lean concrete, levelling course, mud mat under and around foundations/ floors, at any depth below finished floor level etc."
+        },
+        {
+          "name": "202A",
+          "value": "202A",
+          "description": "Concrete of grade M10 (1 part cement, 3 part sand, 6 parts of 40 mm graded aggregate by volume) as lean concrete, levelling course, mud mat under and around foundations/ floors at any depth below finished floor level etc"
+        },
+        {
+          "name": "203A",
+          "value": "203A",
+          "description": "Concrete of grade M15 (1 part cement, 2 part sand, 4 parts of 40 mm graded aggregate by volume) as lean concrete, levelling course, mud mat under and around foundations/ floors at any depth below finished floor level etc"
+        },
+        {
+          "name": "204A",
+          "value": "204A",
+          "description": "Concrete of grade M20 (1 part cement, 1.5 part sand, 3 parts of 20 mm graded aggregate by volume) under floors, paving, plinth protection, pipe encasing etc complete."
+        },
+        {
+          "name": "205A",
+          "value": "205A",
+          "description": "Design Mix cement concrete conforming to IS:456 \u0026 IS 10262-2009 for reinforced concrete works with coarse sand  and graded hard stone aggregate of 20mm nominal size in foundations/ substructure, grade slab, paving, drains, under floors etc at all level below finished floor level, any shape, position or thickness etc all complete as per specification \u0026 drawing for the  following.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "M 20 Grade",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "M 25 Grade",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "M 30 Grade",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "206A",
+          "value": "206A",
+          "description": "Design Mix cement concrete of grade conforming to IS:456 \u0026 IS 10262-2009 for reinforced concrete works with coarse sand  and graded hard stone aggregate of 20mm nominal size in superstructure at all level above finished floor level, any shape, position or thickness etc all complete as per specification \u0026 drawing for the following.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "M 25 Grade",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "M 30 Grade",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "211A",
+          "value": "211A",
+          "description": "Providing and encasing of structural steel  member with  concrete using nominial aggregate size of 12.5mm down. Encased member shall be wrapped with welded wire mesh/ chicken wire mesh with  proper lap etc. complete as per specification for the following grades (Supply of welded wire mesh, chicken wire mesh in contractor\u0027s scope)",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "M 20",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "212A",
+          "value": "212A",
+          "description": "Screed concrete conforming to IS 456 with coarse sand and graded hard stone aggregate 12.5mm/6 mm nominal size on the roof at all level or thickness, drains etc complete as per following.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "01:02:04",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "213A",
+          "value": "213A",
+          "description": "Design Mix cement concrete as per IS:456 \u0026 IS 10262-2009 for reinforced concrete works using graded aggregate for Concrete in precast works like  roof slabs / trench covers, fins, lintels, chajas, beams, columns, wall panels, facias etc.at all levels in all kinds of work including formwork / moulds, curing, rendering the top exposed surface with cement sand mortar (1:3), handling, storing, transpoting, all leads, erection without damage, setting in position with cement sand mortar (1:3), filling the gaps between adjacent preacast units with M30 grade concrete or cement sand mortar (1:3) and including making of holes for bolts for fixing, welding etc.complete with graded aggregate (20/12.5/10 mm) and as per specification and drawing for following grades.\n(Supply of cement for mortar in contractor\u0027s scope)",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "M25",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "214A",
+          "value": "214A",
+          "description": "Design Mix cement concrete as per IS:456, IS 3370 \u0026 IS 10262-2009 for reinforced concrete works using graded aggregate for Concrete (with slump more than 125 mm) in water retaining / conveying structures and conforming to limits of permeability as per IS 2545 and specification with 20 mm nominal size graded aggregate for following grades. Watertightness is to be ensured including structural grouting if required.",
+          "grandChild": [
+            {
+              "name": "b",
+              "value": "b",
+              "description": "M30",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "215A",
+          "value": "215A",
+          "description": "Dismantling concrete work for all types of structures at all levels including stacking of servicable material to a lead of 500 m and disposal of unservicable material upto a lead of 2 km, cutting of reinforcement, labour, equipment, safety precautions etc all complete as per drawings, specification and instructions of engineer in charge.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Plain cement concrete of all grades",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "Reinforced cement concrete of all grades",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "213A",
+          "value": "213A",
+          "description": "Design Mix cement concrete as per IS:456 \u0026 IS 10262-2009 for reinforced concrete works using graded aggregate for Concrete in precast works like  roof slabs / trench covers, fins, lintels, chajas, beams, columns, wall panels, facias etc.at all levels in all kinds of work including formwork / moulds, curing, rendering the top exposed surface with cement sand mortar (1:3), handling, storing, transpoting, all leads, erection without damage, setting in position with cement sand mortar (1:3), filling the gaps between adjacent preacast units with M30 grade concrete or cement sand mortar (1:3) and including making of holes for bolts for fixing, welding etc.complete with graded aggregate (20/12.5/10 mm) and as per specification and drawing for following grades.\n(Supply of cement for mortar in contractor\u0027s scope)",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "M25",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "214A",
+          "value": "214A",
+          "description": "Design Mix cement concrete as per IS:456, IS 3370 \u0026 IS 10262-2009 for reinforced concrete works using graded aggregate for Concrete (with slump more than 125 mm) in water retaining / conveying structures and conforming to limits of permeability as per IS 2545 and specification with 20 mm nominal size graded aggregate for following grades. Watertightness is to be ensured including structural grouting if required.",
+          "grandChild": [
+            {
+              "name": "b",
+              "value": "b",
+              "description": "M30",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "215A",
+          "value": "215A",
+          "description": "Dismantling concrete work for all types of structures at all levels including stacking of servicable material to a lead of 500 m and disposal of unservicable material upto a lead of 2 km, cutting of reinforcement, labour, equipment, safety precautions etc all complete as per drawings, specification and instructions of engineer in charge.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Plain cement concrete of all grades",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "Reinforced cement concrete of all grades",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "216A",
+          "value": "216A",
+          "description": "Chipping of concrete in reinforced concrete work, cutting pockets, making openings at all levels and according to shapes, disposal of waste materials upto a lead of 2 km as directed by engineer including equipment, safety precautions, making good the broken surface etc all complete as per specification, drawing, instructions of engineer in charge but excluding cutting of reinforcement."
+        },
+        {
+          "name": "217A",
+          "value": "217A",
+          "description": "Extra over and above St No 216A for cutting of reinforcement, all sizes and types including labour, equipment, return of cut reinforcement to store etc all complete as per specification, drawings and instructions of engineer in charge. Measurement shall be on the cross sectional area of reinforcement cut."
+        },
+        {
+          "name": "218A",
+          "value": "218A",
+          "description": "Cutting Reinforced concrete with mechanised tools like Core drilling machine etc. for cutting pockets, holes, cores in slab, beam, column or foundation as per direction of engineer in charge."
+        },
+        {
+          "name": "219A",
+          "value": "219A",
+          "description": "Providing and applying curing compound (water based) of approved make where ever required as per manufacturer\u0027s specification."
+        },
+        {
+          "name": "220A",
+          "value": "220A",
+          "description": "Transportation from batching plant and laying Plum cement concrete 1:3:6 with 75% graded metal of maximum size 40 mm and 25% plums of maximum size 150 mm."
+        },
+        {
+          "name": "223A",
+          "value": "223A",
+          "description": "Cutting of existing concrete/ RCC slab (total thickness upto 250mm including floor finsih \u0026 deck sheet if any) inside control room/ pump house or anywhere inside boundary  using power tools of (DD2E of HILTI/ BOSCH make or equivalent) with low noise and dust including cutting reinforcements, removing the rubbish within a lead of 1 km, including making good the broken edges/ surface with cement mortar, painting, finishing to match with existing finishing, scaffolding/ supporting at all level, all complete and as directed by Engineer (measurements shall be taken as per cutting surface area)."
+        }
+      ]
+    },
+    {
+      "name": "200B",
+      "value": "200B",
+      "description": "CONCRETE WORK: Transportation from Batching Plant and placing concrete work including cost of  labour, materials (unless otherwise specified in BOQ/ contract specification) and equipment for handling, transportation, placing, vibrating and curing (excluding cost of centering, shuttering and reinforcement)  with mechanised equipments like transit mixer, concrete pump etc. complete as per drawing, specifications and as per direction of engineer in charge for the following.\n(CONCRETE WITH CEMENT, AGGREGGATES, REQUIRED ADDITIVES/ PLASTICIZER/ SUPERPLASTICIZER ETC. AND INCLUDING TRANSPORTATION, POURING/ LAYING, COMPACTION AND CURING ETC. ALL COMPLETE IS IN THE SCOPE OF CONTRACTOR)",
+      "childList": [
+        {
+          "name": "201B",
+          "value": "201B",
+          "description": "Concrete of grade M7.5 (1 part cement, 4 part sand, 8 parts of 40 mm graded aggregate by volume) as mass filling course, lean concrete, levelling course, mud mat under and around foundations/ floors, at any depth below finished floor level etc."
+        },
+        {
+          "name": "202B",
+          "value": "202B",
+          "description": "Concrete of grade M10 (1 part cement, 3 part sand, 6 parts of 40 mm graded aggregate by volume) as lean concrete, levelling course, mud mat under and around foundations/ floors at any depth below finished floor level etc"
+        },
+        {
+          "name": "203B",
+          "value": "203B",
+          "description": "Concrete of grade M15 (1 part cement, 2 part sand, 4 parts of 40 mm graded aggregate by volume) as lean concrete, levelling course, mud mat under and around foundations/ floors at any depth below finished floor level etc"
+        },
+        {
+          "name": "204B",
+          "value": "204B",
+          "description": "Concrete of grade M20 (1 part cement, 1.5 part sand, 3 parts of 20 mm graded aggregate by volume) under floors, paving, plinth protection, pipe encasing etc complete."
+        },
+        {
+          "name": "205B",
+          "value": "205B",
+          "description": "Design Mix cement concrete conforming to IS:456 \u0026 IS 10262-2009 for reinforced concrete works with coarse sand and graded hard stone aggregate of 20mm nominal size in foundations/ substructure, grade slab, paving, drains, under floors etc at all level below finished floor level, any shape, position or thickness etc all complete as per specification \u0026 drawing for the following.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "M 20 Grade",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "M 25 Grade",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "M 30 Grade",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "206B",
+          "value": "206B",
+          "description": "Design Mix cement concrete of grade conforming to IS:456 \u0026 IS 10262-2009 for reinforced concrete works with coarse sand and graded hard stone aggregate of 20mm nominal size in superstructure at all level above finished floor level, any shape, position or thickness etc all complete as per specification \u0026 drawing for the following.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "M 25 Grade",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "M 30 Grade",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "211B",
+          "value": "211B",
+          "description": "Providing and encasing of structural steel member with concrete using nominial aggregate size of 12.5mm down. Encased member shall be wrapped with welded wire mesh/chicken wire mesh with  proper lap etc. complete as per specification for the following grades (Supply of welded wire mesh, chicken wire mesh in contractor\u0027s scope)",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "M 20",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "212B",
+          "value": "212B",
+          "description": "Screed concrete conforming to IS 456 with coarse sand and graded hard stone aggregate 12.5mm/6 mm nominal size on the roof at all level or thickness, drains etc complete as per following.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "01:02:04",
+              "gGrandchild": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2100",
+      "value": "2100",
+      "description": "WATER SUPPLY: Water supply work including men, material (unless otherwise specified in BOQ/ contract specification), equipment etc. at all level as per specification, drawings and as directed by engineer - in - charge.",
+      "childList": [
+        {
+          "name": "2101",
+          "value": "2101",
+          "description": "Providing and fixing in position tested heavy duty type chromium plated (CP) brass long neck bib cocks including sockets, union, nuts etc all complete - 15mm nominal bore."
+        },
+        {
+          "name": "2102",
+          "value": "2102",
+          "description": "Providing and fixing in position heavy duty brass stop cock of approved quality including all specials etc all complete - 15mm  nominal bore."
+        },
+        {
+          "name": "2103",
+          "value": "2103",
+          "description": "Providing and fixing in position heavy duty brass full way valve with wheel of approved quality including all specials etc all complete for following sizes:",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "25mm nominal bore.",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "50mm nominal bore.",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "2104A",
+          "value": "2104A",
+          "description": "Providing and fixing GI pipes class B medium class conforming to IS:1239 pipes shall be concealed and painted with anticorrsive paint, complete for internal/ external works with GI sockets, unions, elbows, tees, nipples etc and clamps including cutting and making good the walls etc all complete for following sizes:",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "15 mm nominal bore.",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "20 mm nominal bore.",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "25 mm nominal bore.",
+              "gGrandchild": []
+            },
+            {
+              "name": "d",
+              "value": "d",
+              "description": "50 mm nominal bore.",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "2106",
+          "value": "2106",
+          "description": "Providing  and fixing 610mmx453mmx6mm  thk  mirror from reputed mirror manufacturer. Mirror shall  be mounted with glass adjustable revolving CP  brackets with CP screws etc all complete."
+        },
+        {
+          "name": "2108",
+          "value": "2108",
+          "description": "Providing  and  fixing  25 mm diameter stainless steel towel rails (600mm X 25mm) with C.P. mounting brackets all complete."
+        },
+        {
+          "name": "2110",
+          "value": "2110",
+          "description": "Providing and fixing C.P. Soap holder mounted with C.P. screws etc all complete."
+        },
+        {
+          "name": "2112",
+          "value": "2112",
+          "description": "Providing and fixing glazed vitreous wall mounted paper holder with suitable cover cum cutter fitted with CP screws etc. sll  complete."
+        },
+        {
+          "name": "2114",
+          "value": "2114",
+          "description": "Providing \u0026 fixing in position P.V.C. water tank of Syntex or approved equivalent including making all necessary inlet \u0026 outlet pipes, fixture, ball cocks, valves etc all complete for following capacities. GI pipes shall be paid separately under ST No.A2104.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "500 litres capacity",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "1000 litres capacity",
+              "gGrandchild": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2200",
+      "value": "2200",
+      "description": "SANITARY: Sanitary work including all labour, material (unless otherwise specified in BOQ/contract specification), equipment etc. at all level as per specification, drawings and as directed by engineer - in - charge.\n(Supply of cement is in scope of contractor)",
+      "childList": [
+        {
+          "name": "2201",
+          "value": "2201",
+          "description": "Supply and fixing glazed vitreous china Wash Basin of approved make conforming to IS:2556 part 4 of oval shape with R.S. or C.I. brackets painted  white, 15mm chromium plated brass hot \u0026 cold faucets with nylon washers, chromium plated brass chain with rubber plug, 32mm chromium plated brass bottle trap and waste of standard pattern, 32mm dia chromium plated  brass trap unions, plastic connection pipe with chromium plated nuts, fittings, cutting and making good the walls where required etc all complete.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "White",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "2204",
+          "value": "2204",
+          "description": "Providing  and fixing colour glazed vitreous china European type water closet conforming to IS:2556 with siphon, open front solid plastic seat and plastic cover, low level 12.5 litre PVC flushing cistern (same colour as WC) with  valveless fittings, necessary C.P connections etc all complete.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Floor mounted",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "2205",
+          "value": "2205",
+          "description": "Providing  and fixing colour glazed vitreous indian type  Orissa pattern (580x440mm) water closet conforming to IS:2556 part 3 with all fittings including foot rests, low level 12.5 litre PVC flushing cistern with valveless fittings, necessary C.P connections etc all complete."
+        },
+        {
+          "name": "2206",
+          "value": "2206",
+          "description": "Providing  and  fixing white flat back glazed vitreous china urinals of size 440x265x355 mm with photo voltaic control flushing  system as per IS:2556 (part 6, section 1) with flush pipes, lead  pipes, gratings, traps and necessary C.P.  fittings etc. all complete."
+        },
+        {
+          "name": "2208",
+          "value": "2208",
+          "description": "Providing, laying light duty non  pressure NP3 class RCC pipes with collars jointed with stiff mixture of cement mortar 1:2 including testing of joints etc all complete for following.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": " 200mm dia",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": " 300mm dia",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": " 450mm dia",
+              "gGrandchild": []
+            },
+            {
+              "name": "d",
+              "value": "d",
+              "description": " 600mm dia",
+              "gGrandchild": []
+            },
+            {
+              "name": "e",
+              "value": "e",
+              "description": " 900mm dia",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "2209",
+          "value": "2209",
+          "description": "Providing, laying light duty non  pressure NP2 class RCC pipes with collars jointed with stiff mixture of cement mortar 1:2 including testing of joints etc complete for following.",
+          "grandChild": [
+            {
+              "name": "b",
+              "value": "b",
+              "description": " 250mm dia",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": " 300mm dia",
+              "gGrandchild": []
+            },
+            {
+              "name": "d",
+              "value": "d",
+              "description": "450mm dia",
+              "gGrandchild": []
+            },
+            {
+              "name": "e",
+              "value": "e",
+              "description": "500mm dia",
+              "gGrandchild": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2300",
+      "value": "2300",
+      "description": "STRUCTURAL WORKS: Structural steel works including all labour, material (unless otherwise specified in BOQ/ contract specification), equipments unless otherwise specified, transportation, handling etc. at all level as per specification, drawings and as directed by engineer - in - charge.",
+      "childList": [
+        {
+          "name": "2304",
+          "value": "2304",
+          "description": "Extra over ST No. 2301 for providing and applying two coats of synthetic enamel paint with minimum 50 micron total dry film thickness (DFT) of approved make  and shade to achieve an even shade over steel sections already having primer coats and keeping overall DFT with primer not less than 110 microns including protection and cleaning, scoffolding etc. all complete.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Extra over ST No. 2301 for providing and applying two coats of HIGH BUILT EPOXY FINISH with Minimum 90 micron total dry film thickness (DFT) each of approved make  and shade to achieve an even shade over steel sections already having primer coats and keeping overall DFT with primer not less than 180 microns including protection and cleaning, scoffolding etc. all complete.",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "2307",
+          "value": "2307",
+          "description": "Transportation fro store, erection and alignment of factory made electroforged galvanised grating units (material as per ST No. S 2307 of SCH-4 of Vol-III: Suply) in flooring, platforms, drain and trench covers, walk-ways, passages, staircases with edge binding strips and anti-skid nosing in treads etc. including fixing clamps, fittings, fixtures, grinding, drilling, welding, edge preparation, etc. all complete. (Cost against supply of factory made electroforged galvanised grating units with fixing clamps, fittings, fixtures etc. payable seperately under ST No. S 2307 of SCH-4 of Vol-III)",
+          "grandChild": []
+        },
+        {
+          "name": "2314",
+          "value": "2314",
+          "description": "Addition to, alterations in and/or modifiction of \"Erection Marks\" including cutting of parts, gauging of welds, cutting, grinding, fabrication, welding, drilling holes, straightening, removal of bends, raising to the required level, painting, transportation, return of unutilised steel pieces to the project store, temporarily dismantling, cutting, re-welding, supporting and restoring to correct position of all the temporarily dismantled members, realignment of adjacent connected members (weight of such temporarily dismantled and adjacent members not payable) etc all complete for the following:",
+          "grandChild": [
+            {
+              "name": "b",
+              "value": "b",
+              "description": "In fabrication yard",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "2318",
+          "value": "2318",
+          "description": "Fixing in position PTFE type sliding bearings (material as per ST No. S 2318 of Sch-4 of Vol-III: Supply)  as per the construction drawings and for maximum displacement of ±50 mm including transportation, installation, drilling, bolting, erecting, aligning etc all complete for following vertical loads. (Cost against supply of PTFE type sliding bearings payable seperately under ST No. S 2318 of SCH-4 of Vol-III: Suply)",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "20 Tons",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "25 Tons",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "40 Tons",
+              "gGrandchild": []
+            },
+            {
+              "name": "d",
+              "value": "d",
+              "description": "50 Tons",
+              "gGrandchild": []
+            },
+            {
+              "name": "e",
+              "value": "e",
+              "description": "60 Tons",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "2301A",
+          "value": "2301A",
+          "description": "Fabrication, erection and alignment of mild steel rolled section / built up section / combination of both conforming to IS:2062, pipes conforming to IS:1161/ IS:1239, chequered plate conforming to IS: 3052, mild steel rounds, monorails, stays, safety chains, ladders, MS grating etc. in columns, beams, gantry girders, bunkers, silos, hoppers, roof trusses, portals, laced purlins, space frames,  hangers, struts, monorails, galleries, stiffeners, wall beams, sheeting runners, brackets, stub columns, bracings, cleats, trestles, base plates, splice plates, chequered plate flooring, decking and seal plates, steel frame grid over false ceiling, walkway platforms, ladders, stairs, stringers, treads, landings, hand-rails etc including 2 coats of red oxide zinc-chromate primer (one coat at shop and one coat after erection), connection design \u0026 preparation of  fabrication drgs, collection of steel from stores, fabrication, straightening, cutting, bending, rolling, grinding, machining, drilling, welding, electrodes and other consumables, alignment, erection bolts \u0026 nuts (weight of erection bolts, nuts and welds not payable), assembly, edge preparation, preheating (min preheat and interpass temperature of  20o C for welding over 20 mm and upto 40 mm \u0026 66o C for welding over 40 mm and upto 63 mm \u0026 110o C for thickness over 63 mm \u0026 use of low hydrogen/ radiogenic electrodes), post heating, testing of welders, inspection of welds, visual inspection, non destructive and special testing, rectification and correction of defective welding works, production test plate, inspection and testing, erection scheme, protection against damage in transit, stability of structures, installation of temporary structures, setting column bases, surface preparation by means of manual or mechanical power tools as per IS:1477 part 1, touch-up painting, rectification, dismantling and removal of all temporary structures (weight of temporary structures not payable), return of surplus/ waste steel materials to store etc all complete. Including appointment of a seperate agency, approved by BHEL, for review and approval of fabrication drgs, in consultation with BHEL (BHEL to supply steel free of cost).\nPayment terms:\na) Fabrication - 65%,\nb) Erection - 25%\nc) Alignment-10%"
+        },
+        {
+          "name": "2302",
+          "value": "2302",
+          "description": "Extra over ST NO. 2301 for blast cleaning of steel structures to near white metal surface (Sa 2 1/2) and applying TWO COATS OF self-curing Zinc Ethyl Silicate Primer Coat (Solid by Volume Minimum 60%) of Minimum 50 Micron Dry Film Thickness (DFT) each, instead of primer coat of red oxide zinc-chromate, including touch-up painting etc all complete. The Primer Coat shall be applied in Shop immediately after blast cleaning by Airless spray technique."
+        },
+        {
+          "name": "2304",
+          "value": "2304",
+          "description": "Extra over ST No. 2301 for providing and applying two coats of synthetic enamel paint with minimum 50 micron total dry film thickness (DFT) of approved make  and shade to achieve an even shade over steel sections already having primer coats and keeping overall DFT with primer not less than 110 microns including protection and cleaning, scoffolding etc. all complete.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Extra over ST No. 2301 for providing and applying two coats of HIGH BUILT EPOXY FINISH with Minimum 90 micron total dry film thickness (DFT) each of approved make  and shade to achieve an even shade over steel sections already having primer coats and keeping overall DFT with primer not less than 180 microns including protection and cleaning, scoffolding etc. all complete.",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "2307",
+          "value": "2307",
+          "description": "Transportation fro store, erection and alignment of factory made electroforged galvanised grating units (material as per ST No. S 2307 of SCH-4 of Vol-III: Suply) in flooring, platforms, drain and trench covers, walk-ways, passages, staircases with edge binding strips and anti-skid nosing in treads etc. including fixing clamps, fittings, fixtures, grinding, drilling, welding, edge preparation, etc. all complete. (Cost against supply of factory made electroforged galvanised grating units with fixing clamps, fittings, fixtures etc. payable seperately under ST No. S 2307 of SCH-4 of Vol-III)",
+          "grandChild": []
+        },
+        {
+          "name": "2308",
+          "value": "2308",
+          "description": "Supplying, fabrication, erection and alignment of factory made galvanised welded grating units with mild steel conforming to IS:2062 in flooring, platforms, drain and trench covers, walk-ways, passages, staircases with edge binding strips and anti-skid nosing in treads etc. including 2 coats of redoxide zinc-chromate primer (one coat at shop and one coat after erection), fixing clamps, fittings, fixtures, all taxes, duties, packing, grinding, drilling, welding, edge preparation, etc. all complete."
+        },
+        {
+          "name": "2308A",
+          "value": "2308A",
+          "description": "Transportation from store, erection and alignment of factory made Mild Steel (Heavy Duty) welded grating units (material as per ST No. S- ISG 2308A of Sch-4 of Vol-III: Supply) for Wagon Tippler Hopper with  300mm sq. openings  in flooring, platforms, drain and trench covers, walk-ways, passages, staircases with edge binding strips and anti-skid nosing in treads etc. including 1 coats of redoxide zinc-chromate primer after erection, fixing clamps, fittings, fixtures, grinding, drilling, welding, edge preparation, etc. all complete. (Cost against supply of factory made  mild steel (Heavy Duty) welded grating units with fixing clamps, fittings, fixtures etc. payable seperately under ST No. S-ISG 2308A of SCH-4 of Vol-III)"
+        },
+        {
+          "name": "2311",
+          "value": "2311",
+          "description": "Transportation from store and fixing in position of permanent mild steel bolts (class 4.6 as per IS : 1367 and grade `C\u0027 as per IS: 1363) and nuts, washers etc. up to and inclusive of 39 mm diameter and upto 300mm long (material as per ST No. S 2311 of Sch-4 of Vol-III: Supply) for structural steel work etc all complete. (Cost against supply of permanent mild steel bolts and nuts, washers etc. is payable seperately under ST No. S 2311 of SCH-4 of Vol-III: Suply)"
+        },
+        {
+          "name": "2312",
+          "value": "2312",
+          "description": "Transportation from store and fixing in positing of high strength structural bolts (up to and inclusive of 39 mm diameter and upto 300 mm long and of property class 8.8 and product grade `C\u0027 as per IS: 1367) with high strength structural hardened and tempered nuts(of property class `8\u0027 as per IS:1367) conforming to IS:6623, hardened and tempered washers (all materials as per ST No. S 2312 of Sch-4 of Vol-III: Supply) for structural steel work etc all complete. (Cost against supply of high strength structural bolts, high strength structural hardened and tempered nuts, hardened and tempered washers payable seperately under ST No. S 2312 of SCH-4 of Vol-III: Suply)"
+        },
+        {
+          "name": "2313",
+          "value": "2313",
+          "description": "Dismantling of steel structure, lowering of material and carriage of the dismantled material up to field fabrication shop/ projects storage including temporary dismantling, cutting, re-welding, supporting, and restoring to correct position all temporarily dismantled members, re-alighment of all adjacent connected members to their correct positions (weight of such adjacent members and temporarily dismantled members not payable), scafolding, staging, tools \u0026 tackles, gas cutting, welding, consumables etc all complete."
+        },
+        {
+          "name": "2314",
+          "value": "2314",
+          "description": "Addition to, alterations in and/or modifiction of \"Erection Marks\" including cutting of parts, gauging of welds, cutting, grinding, fabrication, welding, drilling holes, straightening, removal of bends, raising to the required level, painting, transportation, return of unutilised steel pieces to the project store, temporarily dismantling, cutting, re-welding, supporting and restoring to correct position of all the temporarily dismantled members, realignment of adjacent connected members (weight of such temporarily dismantled and adjacent members not payable) etc all complete for the following:",
+          "grandChild": [
+            {
+              "name": "b",
+              "value": "b",
+              "description": "In fabrication yard",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "2315",
+          "value": "2315",
+          "description": "Re-erection of dismantled fabricated structural steel members including carriage of modified \"Erection Marks\" from the field fabrication shop to erection site, lifting to required posiion, aligning in position, tack welding, final welding and touch up painting including temporary dismantling and re-erection of temporarily dismantled members, cutting, rewelding, supporting and restoring to the correct position of all temporarily dismnatled members, re-alignment of adjacent connected members(weight of such temporarily dismantled members and adjacent members not payable), scafolding, staging, tools \u0026 tackles, gas cutting, welding, consumables etc all complete."
+        },
+        {
+          "name": "2318",
+          "value": "2318",
+          "description": "Fixing in position PTFE type sliding bearings (material as per ST No. S 2318 of Sch-4 of Vol-III: Supply)  as per the construction drawings and for maximum displacement of ±50 mm including transportation, installation, drilling, bolting, erecting, aligning etc all complete for following vertical loads. (Cost against supply of PTFE type sliding bearings payable seperately under ST No. S 2318 of SCH-4 of Vol-III: Suply)",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "20 Tons",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "25 Tons",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "40 Tons",
+              "gGrandchild": []
+            },
+            {
+              "name": "d",
+              "value": "d",
+              "description": "50 Tons",
+              "gGrandchild": []
+            },
+            {
+              "name": "e",
+              "value": "e",
+              "description": "60 Tons",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "2321",
+          "value": "2321",
+          "description": "Supply, fabrication and fixing of MS pipe hand railing of 32 mm/40 mm dia including transportation, loading/ unloading etc. all complete. Payments terms - a)on receipt of materials at site - 65%; b) Erection \u0026 fixing - 35%;"
+        },
+        {
+          "name": "2322",
+          "value": "2322",
+          "description": "Fabrication and fixing of GI pipe hand railing of 32 mm/40 mm dia NB (Medium Grade) including transportation, loading/ unloading, painting etc. all complete. (Cost against supply of GI Pipes is payable seperately under ST No. S 2322 of SCH-4 of Vol-III: Suply)"
+        },
+        {
+          "name": "2323",
+          "value": "2323",
+          "description": "Conducting radiography test on welds wherever specified including equipments, measuring devices, gauges, test report etc. all complete."
+        },
+        {
+          "name": "2324",
+          "value": "2324",
+          "description": "Conducting ultasonic test on welds wherever specified including equipments, measuring devices, gauges, test report etc. all complete."
+        },
+        {
+          "name": "2326",
+          "value": "2326",
+          "description": "Conducting magnetic particle test on welds wherever specified including equipments, measuring devices, gauges, test report etc. all complete."
+        },
+        {
+          "name": "2327",
+          "value": "2327",
+          "description": "Conducting dye penetration test on welds wherever specified by the engineer including provision of necessary equipments, measuring devices, gauges etc. all complete (over and above the work already specified in the  specifications.)"
+        }
+      ]
+    },
+    {
+      "name": "2400",
+      "value": "2400",
+      "description": "ROAD WORKS: Road works including all labour, material (unless otherwise specified in BOQ/ contract specification), equipment etc.  as per specification, drawings and as directed by engineer - in - charge. \n(Supply of cement is in Contractor\u0027s scope unless otherwise specified in BOQ).",
+      "childList": [
+        {
+          "name": "2409",
+          "value": "2409",
+          "description": "Providing, mixing \u0026 laying of bituminous macadam course of specified thickness using bitumen of grade 60/70 conforming to IS 73, aggregates and binder material including hot mixing, hot laying, rolling etc all complete for the following.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "75mm compacted thickness",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "50mm compacted thickness",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "2401",
+          "value": "2401",
+          "description": "Preparation of sub grade by excavating earth to required depth for all types of soil/ rock, dressing to camber and consolidating the base including making good the undulation etc and disposal of surplus earth within a lead upto 1 km etc. all complete."
+        },
+        {
+          "name": "2402",
+          "value": "2402",
+          "description": "Supplying and filling with selected good earth of approved quality in  layers not exceeding 300 mm loose thickness using  borrowed soil (borrowed soil to be arranged by the bidder) and compacted so as to achieve at least 95% maximum dry density as per IS-2720 (Part-VII) including royalty/ seignorage fee (if any),  sorting, spreading, breaking clods, watering, ramming/ compaction by manual/ mechanical means, dressing, finishing to required lines, grades and slopes, tesing etc all complete."
+        },
+        {
+          "name": "2403",
+          "value": "2403",
+          "description": "Providing, stacking \u0026 laying granular morrum for shoulder including watering, compaction with road roller to required camber etc all complete."
+        },
+        {
+          "name": "2404",
+          "value": "2404",
+          "description": "Providing \u0026 laying water bound macadam sub base course in layers of required thickness with crushed stone aggregates 90 to 40 mm down size (IRC 19 - grading -1), stone screening \u0026 blinding material including screening, sorting, spreading to template \u0026 consolidation with road roller including carriage, spreading \u0026 consolidation of blinding material moorum etc all complete."
+        },
+        {
+          "name": "2405",
+          "value": "2405",
+          "description": "Providing \u0026 laying water bound macadam base course in layers of required thickness with stone aggregate 63mm to 40mm size(IRC 19 - grading -1), stone screening and blinding material including screening sorting, spreading to template and consolidation with road roller including carriage, spreading and consolidation of blinding material moorum etc all complete."
+        },
+        {
+          "name": "2406",
+          "value": "2406",
+          "description": "Providing \u0026 Laying water bound macadam base course with stone aggregate 50mm to 20mm size stone (IRC 19 -grading -1) screening \u0026 binding material including screening, sorting, spreading to template \u0026 consolidation with road roller including carriage spreading \u0026 consolidation of blinding material moorum etc all complete."
+        },
+        {
+          "name": "2407",
+          "value": "2407",
+          "description": "Providing \u0026 applying tack coat of low viscosity liquid bitumen of grade 80/100  confirming to IS 73, 217 or 454 as applicable @10 kg/ 10 sqm for untreated WBM surface including scraping, cleaning with compressed air etc all complete."
+        },
+        {
+          "name": "2408",
+          "value": "2408",
+          "description": "Providing \u0026 applying tack coat of low viscosity liquid bitumen of grade 80/100  confirming to IS 73, 217 or 454 as applicable @ 6 kg/ 10 sqm for bituminous surface including cleaning with compressed air etc all complete."
+        },
+        {
+          "name": "2409",
+          "value": "2409",
+          "description": "Providing, mixing \u0026 laying of bituminous macadam course of specified thickness using bitumen of grade 60/70 conforming to IS 73, aggregates and binder material including hot mixing, hot laying, rolling etc all complete for the following.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "75mm compacted thickness",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "50mm compacted thickness",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "2410",
+          "value": "2410",
+          "description": "Providing, mixing \u0026 laying  25 mm compacted thick premix carpet in a single course composed of suitable small size aggregate premixed with  bituminous binder using medium setting grade bitumen on a prepared base including mixing, applying, rolling etc all complete."
+        },
+        {
+          "name": "2411",
+          "value": "2411",
+          "description": "Providing, mixing \u0026 laying  25 mm thick semi dense bituminious concrete (SDBC) in a single course composed of suitable small size aggregate premixed with  bituminous binder using medium setting grade bitumen on a prepared base including mixing, applying, rolling etc all complete."
+        },
+        {
+          "name": "2412",
+          "value": "2412",
+          "description": "Providing and applying liquid seal coat comprising of an application of a layer of bituminous  binder using medium setting grade bitumen at the rate of 9.8kg/10sqm followed by a cover  of stone chips at the rate of 0.09 cum/10sqm  including rolling etc all complete."
+        },
+        {
+          "name": "2413",
+          "value": "2413",
+          "description": "Supplying and laying 400mmx150mmx350mm deep precast concrete kerb stone of grade M-20 with 20 mm nominal size stone aggregate and of shape as per detailed drawing including fixing with cement mortar (1:2) in 13mm thick  joints, finishing of joints with neat cement paste, making drainage opening where required etc all complete."
+        },
+        {
+          "name": "2414A",
+          "value": "2414A",
+          "description": "Supply and laying 200 mm dia R.C.C NP-3 type Hume pipe in raised shoulders as rain water drains as per detailed drawing including fixing with cement mortar (1:2) in 13mm thick joints, finishing of joints with neat cement paste etc all complete."
+        },
+        {
+          "name": "2414B",
+          "value": "2414B",
+          "description": "Supply and laying 600 mm dia R.C.C NP-3 type Hume pipe in raised shoulders as rain water drains as per detailed drawing including fixing with cement mortar (1:2) in 13mm thick joints, finishing of joints with neat cement paste etc all complete."
+        },
+        {
+          "name": "2416",
+          "value": "2416",
+          "description": "Dismantling of existing road consisting of premix carpet, kerb stone/ brick on edge, bitumen macadem course, WBM, prepairing subgrade to receive new WBM including camber consolidation including disposal of debris within a lead of 1 km etc all complete."
+        },
+        {
+          "name": "2418",
+          "value": "2418",
+          "description": "Transportation from Batching Plant \u0026 pacing at location, Concrete of grade M10 (1 part cement, 3 part sand, 6 parts of 40 mm graded aggregate by volume) as lean concrete, levelling course, mud mat under and around foundations/ floors at any depth below finished floor level etc.\n(RMC SHALL BE PROVIDED BY BHEL AT BATCHING PLANT IN PROJECT PREMISES}"
+        },
+        {
+          "name": "2426",
+          "value": "2426",
+          "description": "Providing \u0026 laying 75 mm thick precast interlocking concrete pavers of approved colour and pattern as per specification and recommendation of manufacturer."
+        },
+        {
+          "name": "2427",
+          "value": "2427",
+          "description": "Providing and laying 50mm thick sand layer below concrete pavers including compaction etc all complete as per specification, drawing and as directed by Engineer."
+        },
+        {
+          "name": "2429",
+          "value": "2429",
+          "description": "Providing and laying Inverted Choke with 25 mm course of screenings (Grading-B) over prepared subgrade including compaction etc all complete as per specification, drawing and as directed by Engineer."
+        }
+      ]
+    },
+    {
+      "name": "2500",
+      "value": "2500",
+      "description": "PILING WORK: Piling works including all labour, material (unless otherwise specified in BOQ/ contract specification), equipment etc. as per specification, drawings and as directed by engineer - in - charge. ",
+      "childList": [
+        {
+          "name": "2510A",
+          "value": "2510A",
+          "description": "Breaking of pile head to cut off level and exposing pile reinforcement for embedment in pile cap including cutting, bending, placing, welding, disposal of debris within the plant premises etc. all complete as per specification, drawing  and as directed by the engineer-in-charge. (Installation \u0026 Testing of Pile under Pile Vendor scope)"
+        },
+        {
+          "name": "2516A",
+          "value": "2516A",
+          "description": "Providing and driving sheet pile upto all depths in various types of soils, cost inclusive of all materials like sheet, tools and plants, anchoring arrangement, labour etc all complete including removing the sheet piles on completion of respective Civil Works as per the direction of engineer in charge. Quoted price is inclusive of design and approval of sheet pile system with anchoring. (The item shall be executed on specific approval by the Engineer-in-charge on a case-to-case basis depending on space constraints)."
+        }
+      ]
+    },
+    {
+      "name": "2600",
+      "value": "2600",
+      "description": "LEVELING \u0026 GRADING: Levelling \u0026 grading works including all labour, material (unless otherwise specified in BOQ/ contract specification), equipment etc.  as per specification, drawings and as directed by engineer - in - charge. \n(Supply of cement is in Contractor\u0027s scope unless otherwise specified in BOQ).",
+      "childList": [
+        {
+          "name": "2601",
+          "value": "2601",
+          "description": "Cutting of trees having girth more than 300 mm measured at a height of 1m above ground level including removal of roots, stacking the seviceable material like trunks,branches etc at specified area within the plant boundary and disposal of unseviceable parts/ materials witthin a lead upto 1km etc all complete.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "300 mm upto 600 mm girth.",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "601 mm upto 1200 mm girth.",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "2610",
+          "value": "2610",
+          "description": "Extra over ST No. 2601 to 2609 for carriage of unserviceable material/ earth for every 500m or part thereof beyond an initial lead of 1km.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Carriage for stacking/ backfilling of serviceable material/ earth",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "2601",
+          "value": "2601",
+          "description": "Cutting of trees having girth more than 300 mm measured at a height of 1m above ground level including removal of roots, stacking the seviceable material like trunks,branches etc at specified area within the plant boundary and disposal of unseviceable parts/ materials witthin a lead upto 1km etc all complete.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "300 mm upto 600 mm girth.",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "601 mm upto 1200 mm girth.",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "2602",
+          "value": "2602",
+          "description": "Earth work in stripping of top soil upto a maximum depth of 0.30m below ground level so as to exclude all debris, grass, vegetation, bushes, trees having girth upto 300 mm  including roots and organic materials etc for leveling and grading including dressing to specified levels \u0026 grades and compacting the graded/ stripped surface by manual/ mechanical means, disposal of stripped materials within a lead upto 1km etc all complete as per specification, drawing and as directed by the engineer-in-charge."
+        },
+        {
+          "name": "2603",
+          "value": "2603",
+          "description": "Earth work in excavation upto any depth below ground level in all types of soil  including moorum, ash which can be excavated by any means for grading including setting out, levelling, dewatering (wherever required), dressing the sides \u0026 bottom, levelling to grade, all lifts, ramming/ compacting the excavated bottom/ graded surface, stacking/ disposal of surplus excavated materials  within a lead upto 1km, spreading/ levelling of disposed materials etc all complete as per specification, drawing and as directed by the engineer-in-charge."
+        },
+        {
+          "name": "2610",
+          "value": "2610",
+          "description": "Extra over ST No. 2601 to 2609 for carriage of unserviceable material/ earth for every 500m or part thereof beyond an initial lead of 1km.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Carriage for stacking/ backfilling of serviceable material/ earth",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "2611",
+          "value": "2611",
+          "description": "Earth work in filling upto any depth below ground level for grading to proper  grade  and level in layers not exceeding 300 mm loose thickness so as to achieve at least 95% maximum dry density as per IS-2720 (Part-VII) with  approved borrowed soil (borrowed soil to be arranged by the bidder) and compacted as specified including supplying boorowed soil, royalty/ seignorage fee (if any), sorting, spreading, breaking clods, watering, ramming/ compaction by manual/ mechanical means, dressing, finishing to required lines, grades and slopes, tesing, all lead and lifts etc all complete as per specification, drawing and as directed by the engineer for the following."
+        },
+        {
+          "name": "2612",
+          "value": "2612",
+          "description": "Providing and laying 225mm thick stone pitching including caulking with 1 cement: 4 sand mortar on the slopes of earth fill/ cut with approved quality of rock fragments including materials, testing, necessary excavations if any, compaction etc all complete  as per specification, drawing and as directed by the engineer."
+        }
+      ]
+    },
+    {
+      "name": "300",
+      "value": "300",
+      "description": "FORMWORK: Providing, fixing and removing formwork at all elevations for all structures, as per specifications and including all labour, material, scaffoldings and centereing etc. complete as per drawing, specifications and as per direction of engineer in charge for the following.",
+      "childList": [
+        {
+          "name": "304",
+          "value": "304",
+          "description": "Providing, fixing and removing formwork in block-outs/ pockets and openings (below 0.1 sqm plan area) at all elevations including cutting, formation of all shapes and all other operations required for making the required shape and size all complete as per specification, drawing and instruction of engineer in charge.",
+          "grandChild": [
+            {
+              "name": "b",
+              "value": "b",
+              "description": "Pockets of depths more than 150mm and upto 300 mm depth",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "Pockets of depths more than 300mm and upto 600 mm depth",
+              "gGrandchild": []
+            },
+            {
+              "name": "d",
+              "value": "d",
+              "description": "Pockets of depths more than 600mm and upto 1000 mm depth",
+              "gGrandchild": []
+            },
+            {
+              "name": "e",
+              "value": "e",
+              "description": "Pockets of depths more than 1000mm and upto 1500 mm depth",
+              "gGrandchild": []
+            },
+            {
+              "name": "f",
+              "value": "f",
+              "description": "Pockets of depths more than 1500mm and upto 2000 mm depth",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "301",
+          "value": "301",
+          "description": "Fairface form work with good quality water proof ply wood of minimum 12mm thickness and smooth surface below finished ground floor level for foundations, footings, base of columns, walls, columns, pilasters, beams, mass concrete,  trenches etc.including chamfering of edges as per drawing, specification and instruction of engineer in charge."
+        },
+        {
+          "name": "302",
+          "value": "302",
+          "description": "Fairface form work with good quality water proof ply wood of minimum 12mm thickness and smooth surface above finished ground floor level for columns,  beams, suspended  floors, roofs, lintels, cantilevers, staircases, landings, balconies, etc. including chamfering of edges as per drawing.for all heights as per specification, drawing and instruction of engineer in charge."
+        },
+        {
+          "name": "303",
+          "value": "303",
+          "description": "Fairface Formwork with good quality water proof ply wood of minimum 18mm thickness and smooth surface for FLY ASH SILO UNLOADING SLAB (approx. elevation at 12-15m above ground level) including preparation of scheme, designing, submission and approval of staging drawing with sufficient props, braces and ties at every tier of height of approx. 4m for all heights complete including chamfering of edges, deshuttering as per drawing, specification, and instruction of engineer in charge."
+        },
+        {
+          "name": "304",
+          "value": "304",
+          "description": "Providing, fixing and removing formwork in block-outs/ pockets and openings (below 0.1 sqm plan area) at all elevations including cutting, formation of all shapes and all other operations required for making the required shape and size all complete as per specification, drawing and instruction of engineer in charge.",
+          "grandChild": [
+            {
+              "name": "b",
+              "value": "b",
+              "description": "Pockets of depths more than 150mm and upto 300 mm depth",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "Pockets of depths more than 300mm and upto 600 mm depth",
+              "gGrandchild": []
+            },
+            {
+              "name": "d",
+              "value": "d",
+              "description": "Pockets of depths more than 600mm and upto 1000 mm depth",
+              "gGrandchild": []
+            },
+            {
+              "name": "e",
+              "value": "e",
+              "description": "Pockets of depths more than 1000mm and upto 1500 mm depth",
+              "gGrandchild": []
+            },
+            {
+              "name": "f",
+              "value": "f",
+              "description": "Pockets of depths more than 1500mm and upto 2000 mm depth",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "306",
+          "value": "306",
+          "description": "Providing ,fixing \u0026 removing curved type Slip form shuttering including staging, propping (cost incl. of submitting supporting design \u0026 drawing and approval etc.) at all locations, heights and levels above or below ground complete as per specification and directions of Engineer In-charge"
+        }
+      ]
+    },
+    {
+      "name": "3101",
+      "value": "3101",
+      "description": "GUNITING/ SHOTCRETING: Shotcreting (Gunniting) specified concrete surfaces as per the following specifications including all materials. Labour, tools and plants, scaffolding etc all complete as per the directions of Engineer in charge, :\ni.   Fabricating and fixing in position 6mm M S bars at 750mm c/c including connecting to the lugs for fastening\nii.   Fixing wire fabric confirming to IS;1566  as reinforcement  with 3mm diameter spaced at 50mm c/c both ways electrically cross welded including securely tying to  the 6mm MS bars by maintaining 100mm overlap for adjacent sheets  \niii.     Fine aggregate shall consist of natural sand or crushed stone from a known source and shall be strong, hard, coarse, sharp, chemically inert, clean and free from any coating. It shall be free from clay, coal or coal residue, organic or any other impurities that may impair the strength or durability of the concrete and shall conform to IS: 383. The fineness modulus shall be preferably between 2.5 and 3.3. Any other value can be used, with prior approval of the Engineer. Fine aggregate (Sand) shall be well graded and particles shall range in size within limits. The Engineer may approve the use of any other grading as per requirement or as per IS: 9012.\niv.     The surface after the placement of reinforcement and/ or welded mesh and not more than six hours prior to the application of concrete, shall be thoroughly cleaned of all loose materials and dirt. The Contractor shall properly prepare the surfaces, reinforcement and / or welded mesh to receive the shotcrete. Cleaned surfaces shall be wetted not more than hour prior to shotcreting.\nv.     The mix as placed on surface shall be one part cement to three parts approved sand by mass. Cement and sand shall be dry mixed; no water shall be added after mixing and before using in the gun. The quantity of water when added shall be only that which is sufficient to hydrate the cement. For average atmospheric conditions, the water cement ratio for shotcrete in place shall be between 0.35 and 0.5 by mass. Suitable admixture shall be used wherever required.\nvi.   A uniform pressure of not less than 25 Kgf / cm2 at the nozzle shall be maintained. Necessary adjustments shall be made to ensure this pressure, taking into account the length of hose and height of the place to be shotcreted, above location of the machine.\nvii.   The application shall proceed in an upward direction. Beams, stiffeners and intermediate walls, if any, shall be wrapped with wire fabric and completely covered with shotcreting. All rebound shall be removed from the area of application as the work progresses and such rebound material shall not be reused.\nviii.   As soon as the freshly shotcreted surface shows the first dry patches, a fine spray of water shall be applied to keep too moist. After the surface has hardened, it shall be kept continuously moist for minimum seven days. If there is extreme heat, especially when accompanied by hot winds, the shotcreted surface, immediately upon completion, shall be covered with burlap or similar covering, which must be kept continuously moist for 14 days after shotcreting. The temperature of the lining shall not be permitted to exceed 38oC during placing and curing.\nNote: 6mm MS Reinforcement and  welded wire mesh as specified shall be used for thickness of Shotcreting above 50mm\n(Supply of cement is in Contractor\u0027s scope unless otherwise specified in BOQ).",
+      "childList": [
+        {
+          "name": "a",
+          "value": "a",
+          "description": "Shotcreting for thickness 50mm and above of with 6mm MS Reinforcement and  welded wire mesh as specified"
+        }
+      ]
+    },
+    {
+      "name": "400",
+      "value": "400",
+      "description": "REINFORCEMENT WORK: Reinforcement work including all labour, material (unless otherwise specified in BOQ/ contract specification), equipment, transportation, handling etc at all level as per specification, drawings and as directed by engineer - in - charge.",
+      "childList": [
+        {
+          "name": "401",
+          "value": "401",
+          "description": "Transportation from store, straightening, cutting, bending, placing in position at all level, binding  of mild steel reinforcements conforming to grade 1 of IS:432 part 1(material as per ST S 401 of SCH-4 of Vol-III) in concrete including cost of reinforcement steel, binding wire, labour, scaffolding etc. all complete as per specifications \u0026 drawings. (Cost on account of supply of mild steel reinforcement is payable seperately under ST S 401 of SCH-4 of Vol-III: Supply)"
+        },
+        {
+          "name": "402",
+          "value": "402",
+          "description": "Providing, straightening, cutting, bending, placing in position at all level, binding in position of steel reinforcements of TMT steel of grade Fe-500D or Fe-500 confirming to IS:1786 including cost of reinforcement steel, binding wire, labour, scaffolding, transportation to \u0026 from stores etc complete all as per specifications, drawings and as directed by Engineer. [TMT Reinforcement steel will be issue by BHEL free of cost]",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Transportation from BHEL yard, straightening, cutting, bending, welding /  binding in position of old cut piece TMT steel reinforcements confirming to IS:1786 including binding wire, labour for chair and other misc. works complete all as per bar bending schedule and as directed by Engineer. [ Old cut piece TMT Reinforcement steel will be issue by BHEL free of cost]",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "406",
+          "value": "406",
+          "description": "Providing and fixing parallel threaded reinforcement couplers for mechanical splices of rebars (TMT/ CRS TMT) for concrete reinforcement including supply of couplers as per IS: 16172 made out of EN8D grade high strength alloy material, threading on rebars to be coupled with coupler, enlargement at connection by forging, protecting the prepared reinforcement bars, fitting \u0026 fixing of couplers under specialized supervision, quality tests \u0026 checks (for couplers and coupled joints) etc. all complete as per direction of Engineer in charge. The couplers shall match to the properties of rebars of grade equal to Fe 550 D of IS 1786. The cost shall include for all works and tests including moblisation, demobilisation, loading/unloading of required plant/ machinery at site for threading \u0026 forging works, tools \u0026 tackles, labour \u0026 supervision, consumables and all incidental expenses for satisfactory execution of the work. (No deduction for labour and binding wire saved for not providing lap length shall be made).",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Coupler of class “H” for 16 mm diameter reinforcement bar.",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "Coupler of class “H” for 25 mm diameter reinforcement bar.",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "407",
+          "value": "407",
+          "description": "Welding of lap joints of steel reinforcements of Corrosion Resistant thermo-mechanically treated  reinforcement steel (High Strength Deformed steel bars) conforming to grade Fe-500 of IS: 1786 (Latest) including cost of welding electrodes, labour, tools and plants etc. complete as permitted and directed by Engineer. Measurement shall be done for the number of joints welded comprising of weld deposition of 2.5d length each on both side of lap joint (i.e total 5d length of weld deposition). Here, “d” is the diameter of reinforcement bar. ",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "For d\u003d16 mm",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "For d\u003d25 mm",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "408",
+          "value": "408",
+          "description": "Straightening, cutting, bending of TMT steel reinforcement (Grade Fe-500D or 500EQR) of pile after breaking of pile head for embedment in pile cap, binding in position including cost of binding wire, labour, scaffolding,  etc complete all as per specifications, drawings and as directed by Engineer ( Breaking of pile head is not included in this item)."
+        }
+      ]
+    },
+    {
+      "name": "500",
+      "value": "500",
+      "description": "Roof Treatment works: Roof treatment works including all labour, material (unless otherwise specified in BOQ/contract specification), equipment, transportation, handling, curing, sampling, testing etc at all level as per specification, drawings and as directed by engineer - in - charge.\n(Supply of cement is in scope of contractor)",
+      "childList": [
+        {
+          "name": "501",
+          "value": "501",
+          "description": "Providing and laying underbed grading plaster with cement mortar 1:4 (1 cement : 4 sand) and average thickness of 25 mm including preparation of surface, batching, mixing, leveling etc. all complete."
+        },
+        {
+          "name": "510",
+          "value": "510",
+          "description": "Providing and laying Spray applied an average 40 mm thick two component Hydro flourocarbon(CFC free), polymeric M.D.I based closed cell(96-98% as perASTM D2856) multilayer, waterproof, insulated polyurethane foam, mixed in a ratio of 1:1 by volume with a nominal core density of 45-50 Kg/m3 as per ASTM D1622 , and a thermal conductivity of 0.023 W/m.k at 25 degree mean temperature as per ASTM C518/91 possessing waterproofing properties as per ASTM C-518/91 ,ASTM C-272 and complying to Fire resistance Class B2 as per DIN 4102. Top of insulation foam shall have a minimum 1.5mm thick sealer coat, which is a single component cold applied elastomeric waterproofing coating with \u003e\u003d500% elongation confirming to ASTM C836 applied by a spray/brush/roller in 2 coats. Loosely laid 120-150 GSM geotextile (non-woven polyester) shall be provided over the Elastomeric coating. Laying protective slope with 25mm average thick (thickness will depend upon the required slope and span of the building) M20 grade screed mixed with polypropylene fibers and admixed with integral liquid waterproofing compound conforming to IS: 2645. Green stage saw cutting on the screed will be done in panels (3mx4m) with grooves 10mmx10mm. Finally the groove will be sealed with suitable elastomeric sealant. Finally top shall be finished with 20mm thick 600x600 concrete roof tiles over 20mm thick cement: sand (1:4) bed mortar"
+        },
+        {
+          "name": "511",
+          "value": "511",
+          "description": "Providing and applying two coats of bitumen grade 85/25 as per IS 702 (@ 1.7kg/sqm)with 1% antistripping compound conforming to IS 6241 in foundation, wall, column etc on concrete surfaces exposed to soil / ash including surface preparation etc. all complete."
+        },
+        {
+          "name": "513",
+          "value": "513",
+          "description": "Providing and mixing water proofing compound conforming to IS:2645 in concrete or cement mortar all complete."
+        }
+      ]
+    },
+    {
+      "name": "600",
+      "value": "600",
+      "description": "JOINTS AND FILLERS: Joints \u0026 fillers including all labour, material, equipment, transportation, handling etc at all level as per specification, drawings and as directed by engineer - in - charge.",
+      "childList": [
+        {
+          "name": "601",
+          "value": "601",
+          "description": "Supplying \u0026 installation of bitumen impregnated fibre board confirming to IS 1838 as joint filler at joints in concrete including nailing, coating of both faces with coal tar pitch/bitumin etc. all complete.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "12 mm wide joints.",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "20 mm wide joints.",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "25 mm wide joints",
+              "gGrandchild": []
+            },
+            {
+              "name": "d",
+              "value": "d",
+              "description": "50 mm wide joints",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "602",
+          "value": "602",
+          "description": "Supplying and installation of Dura board HD100 or its equivalent as approved by the Engineer, as filler material in joints including nailing, installation as per manufacturer\u0027s recommendation etc. all complete.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "12 mm wide joints.",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "20 mm wide joints.",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "25 mm wide joints",
+              "gGrandchild": []
+            },
+            {
+              "name": "d",
+              "value": "d",
+              "description": "50 mm wide joints",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "603",
+          "value": "603",
+          "description": "Providing and applying polysulphide based sealant conforming to IS:12118 in  joints in concrete including cleaning of joints, raking out groove, application of primer, scaffolding etc. all complete for following size grooves:",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "25mmX25mm",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "50mmX25mm",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "604",
+          "value": "604",
+          "description": "Supplying and filling in position hot applied bitumin sealing compund (Grade A) confirming to IS 1834 including cleaning, mixing, heating, pouring/ injecting sealing compound in gaps in joints including application of primer etc. all complete.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "10mm X 40mm",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "12mm X 25mm",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "20mmX25mm",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "610",
+          "value": "610",
+          "description": "Providing and fixing PVC water stops in joints conforming to IS 12200 \u0026 IS 15058 all complete for the following: (Bulb or Kicker type)",
+          "grandChild": [
+            {
+              "name": "d",
+              "value": "d",
+              "description": "230 mm wide and 6 mm thick",
+              "gGrandchild": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "700",
+      "value": "700",
+      "description": "MS EMBEDMENTS: Embedments including all labour, material (unless otherwise specified in BOQ/contract specification), equipment, transportation, handling etc. at all level as per specification, drawings and as directed by engineer - in - charge.",
+      "childList": [
+        {
+          "name": "701",
+          "value": "701",
+          "description": "Supply, fabricating and fixing of mild steel embedments, inserts, pipe sleeves, angle  pieces, rungs of  various diameters, plates of dimensions as required etc. including welding, bolting, cutting, drilling, scaffolding, setting etc. all complete."
+        },
+        {
+          "name": "702",
+          "value": "702",
+          "description": "Transportation from store to site, erection, installation and alignment of mild steel foundation bolt assembly conforming to IS:2062 and grade 1 of IS:432  in concrete along with nuts, lock nuts (as per IS:1363, 1364 and IS:3138), washers, anchor plates, stiffner plates, protective tape, pipe sleeves, templates etc. (material as per ST No. S 702 of SCH-4 of Vol-III:Supply) including welding, cutting, grinding etc. all complete. (Cost on account of supply of mild steel bolt assembly, nuts, lock nuts, washer, anchor plates, stiffener plates, protective tape, pipe sleeves, templates etc. payable seperately under  ST S 702 of SCH-4 of Vol-III: Supply)"
+        },
+        {
+          "name": "703",
+          "value": "703",
+          "description": "Same as above items 701 \u0026 702 with BHEL supplied material free of cost including loading, transportation, unloading etc. all complete from BHEL store to plant site.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Mild steel embedments, inserts, pipe sleeves, angle pieces, rungs of various  diameters, plates of dimensions as required etc.",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "Mild steel foundation bolt assembly conforming to IS:2062 and grade 1 of IS:432  in concrete along with nuts, lock nuts (as per IS:1363, 1364 and IS:3138), washers, anchor plates, stiffner plates, protective tape, pipe sleeves, templates etc.",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "704",
+          "value": "704",
+          "description": "Supplying, fabricating, erecting and installing following items in concrete/ brickwall for all kind of works, including setting material in concrete, layout, scaffoling, cutting, forming, grinding, drilling, bolting, welding, jointing, testing etc. all complete.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "MS pipes of all diameters",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "PVC pipes / conduits of all diameters",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "UPVC pipes / conduits of all diameters",
+              "gGrandchild": []
+            },
+            {
+              "name": "e",
+              "value": "e",
+              "description": "Expansion fasteners (mechanical galvanised) of HILTI make or equivalent of safe tensile capacity as specified below for concrete work with expansion sleeve of stainless steel:",
+              "gGrandchild": [
+                {
+                  "name": "i",
+                  "value": "i",
+                  "description": "HST M8"
+                },
+                {
+                  "name": "ii",
+                  "value": "ii",
+                  "description": "HST M10"
+                },
+                {
+                  "name": "iii",
+                  "value": "iii",
+                  "description": "HST M12"
+                },
+                {
+                  "name": "iv",
+                  "value": "iv",
+                  "description": "HST M16"
+                },
+                {
+                  "name": "v",
+                  "value": "v",
+                  "description": "HST M20"
+                },
+                {
+                  "name": "vi",
+                  "value": "vi",
+                  "description": "HST M24"
+                }
+              ]
+            },
+            {
+              "name": "f",
+              "value": "f",
+              "description": "Chemical Expansion fasteners (galvanised)of HILTI make or equivalent of safe tensile capacity as specified below for concrete work with anchoring rod, nuts, washers, chemicals all complete,etc:",
+              "gGrandchild": [
+                {
+                  "name": "i",
+                  "value": "i",
+                  "description": "HAS-E5.8 M8"
+                },
+                {
+                  "name": "ii",
+                  "value": "ii",
+                  "description": "HAS-E5.8 M10"
+                },
+                {
+                  "name": "iii",
+                  "value": "iii",
+                  "description": "HAS-E5.8 M12"
+                },
+                {
+                  "name": "iv",
+                  "value": "iv",
+                  "description": "HAS-E5.8 M16"
+                },
+                {
+                  "name": "v",
+                  "value": "v",
+                  "description": "HAS-E5.8 M20"
+                },
+                {
+                  "name": "vi",
+                  "value": "vi",
+                  "description": "HAS-E5.8 M24"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "705",
+          "value": "705",
+          "description": "Placing, locking and releasing of Vibration Isolation spring modules over the foundation at all elevations including providing all assistance under the supervision of the supplier, transportation from BHEL store, necessary staging, platforms, leveling, alignment etc. all complete."
+        },
+        {
+          "name": "707",
+          "value": "707",
+          "description": "Providing, laying and fixing rails(52kg/rm) and guide rails in concrete for transformer, rail track including cutting of rails, joining of rails, anchoring lugs etc all complete."
+        }
+      ]
+    },
+    {
+      "name": "800",
+      "value": "800",
+      "description": "GROUTING: Grouting including all labour, material (unless otherwise specified in BOQ/contract specification), equipment, roughening surface, cleaning, ramming, curing etc. at all level, drawings and as directed by engineer - in - charge.\n(Supply of cement is in scope of contractor)",
+      "childList": [
+        {
+          "name": "803",
+          "value": "803",
+          "description": "Providing \u0026 grouting of pocket holes, pipe sleeves and under base plate of structural steel work/ machinery/ pipe supporting structures including roughening of surface, cleaning, ramming, curing etc. all complete with mix 1:1:2 (1 cement : 1 coarse sand : 2 aggregate of 6 mm down graded stonechips) using non shrink admixture as per specification, drawing and direction of engineer-in-charge. (Cost of all material and cleaning the pocket by compressed air shall be in the scope of the contractor)."
+        },
+        {
+          "name": "804",
+          "value": "804",
+          "description": "Providing \u0026 grouting of pocket holes, pipe sleeves and under base plates  of structural steel work/ machinery/ pipe supporting structures including roughening of surface, cleaning, ramming, curing etc. all complete with ConbextraGP-1 or equivalent  as per specification, drawing and direction of engineer-in-charge. (Cost of all material and cleaning of the pockets by compressed air shall be in the scope of the contractor)."
+        },
+        {
+          "name": "805",
+          "value": "805",
+          "description": "Providing \u0026 grouting of pocket holes, pipe sleeves and under base plates of structural steel work/ machinery/ pipe supporting structures including roughening of surface, cleaning, ramming, curing, etc. all complete with Conbextra GP-2 or equivalent as per specification, drawing and direction of engineer-in-charge. (Cost of all material and cleaning of the pockets by compressed air shall be in the scope of the contractor)."
+        },
+        {
+          "name": "806",
+          "value": "806",
+          "description": "Providing Chemical (epoxy) injection grouting with pressure pump for water retaining concrete structures conforming to IS:6494, including fixing nozzles, cost of approved chemical, admixture, curing etc. all complete. Payment shall be made as per the consumption of chemical grout."
+        },
+        {
+          "name": "808",
+          "value": "808",
+          "description": "Providing Chemical Injection Grouting with Minimum, 12 mm dia (NB) threaded nozzle of suitable length over the surface and along the construction joint line in a grid pattern at a spacing not exceeding 1.5m c/c before concreting operation After the nozzles are fully set, neat cement slurry admixed with water soluble non-shrink polymer / monomer based chemical shall be injected through the net - work of nozzles with low pressure grout pumps at a pressure of about 2.0 Kg/Sqcm. Cement slurry shall be prepared by mixing cement with non-shrink polymer/ monomer @ 500 gm/50 kg bag of cement and water, ensuring that Water: Cement ratio does not exceed 2 (by weight). Wetter the structure, lesser should be the water cement ratio. The property of the polymer/ monomer should be such that when it is mixed with water @ 0.5% by weight of water, the viscosity of the resultant solution (water and polymer/monomer) should not be more than 1.2 centipoises. Plasticizing agent shall be added wherever required. The grouting shall be started at very low pressure and increased gradually to a required pressure. The grouting shall continue, till the hole refuses to take any further grout, even at an increased pressure. Applied pressure shall not be more than the designed strength of the concrete. After completion of grouting operation, the nozzles shall be sealed properly to the satisfaction of the Engineer"
+        }
+      ]
+    },
+    {
+      "name": "900",
+      "value": "900",
+      "description": "DOORS \u0026 WINDOWS: Doors, windows, ventilators, louvers, roof  ventilators, rolling shutters, partitions including all labour, material  (unless otherwise specified in BOQ/contract specification), equipments, transportation, handling, preparation of working drawings etc. at all level as per specification, drawings and as directed by engineer - in - charge.",
+      "childList": [
+        {
+          "name": "904",
+          "value": "904",
+          "description": "Providing and fixing single or double steel door shutters with 45mm thk flush design shutter comprising of two outer sheets of 18 gauge steel sheets rigidly  connected and reinforced inside with continuous vertical 20 gauge stiffeners, spot welded in position at not more than 150mm on centres including void filled with mineral wool (density as per specification), all fittings, Godrej or equivalent make mortice lock with handle on both sides, shop and final painting etc all complete."
+        },
+        {
+          "name": "906",
+          "value": "906",
+          "description": "Providing and fixing anodized extruded aluminium doors (single or double shutter) conforming to IS:1948, IS:1949 fabricated from extruded sections of HINDALCO/JINDAL or equivalent make having minimum 3mm wall thickness as per IS:1285, IS:733 and anodized and electro color coating of required shade as per IS 1868 (minimum anodized coating of grade AC15). fixed with rawl plugs, expansion fasteners, SS screws / fixing clips necessary filling of gaps at Junctions, at top, bottom \u0026 sides with required PVC / neoprene felt for bi-metallic protection etc. Glazing shall be clear float glass of 6mm thickness including snap fit type beading, concealed screws, fixtures, Godrej or equivalent make Mortice lock with handle on both sides, etc all complete. Aluminium section shall be smooth, free of stains, straight, mitred \u0026 jointed mechanically wherever required. (Glazing shall be paid separately)"
+        },
+        {
+          "name": "908",
+          "value": "908",
+          "description": "Providing and fixing steel windows/ventilator with steel sections as per IS:1038, IS:1361 \u0026 IS:7452 latest revision including all fittings, metal beadings, hold fasts, shop and final painting, glazing etc. all complete. (Glazing shall be paid separately)",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "Openable type",
+              "gGrandchild": []
+            },
+            {
+              "name": "b",
+              "value": "b",
+              "description": "fixed type",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "913",
+          "value": "913",
+          "description": "Transportation from store and fixing in position rolling shutter (as per ST No. S 913 of SCH-4 of Vol-III :Supply) of hot rolled double dipped galvanised steel lath section of 18 SWG tested mild steel strips at 75mm rolling centres interlocked  together through their entire length and jointed together at the end by end locks mounted on specially designed pipe shaft with brackets, side guides and arrangements for inside and outside locking with push and pull operation including wire springs, top cover, primer \u0026 shop coats of approved enamel paint etc, all complete as per IS 6248 and specification of approved make of following types: The bottom lath shall be coupled to a lock plate fabricated from 3mm thick galvanised steel plate and securely rivetted with stiffening angles. (partly coiled and lath/ full lath). (Cost against supply of rolling shutter assembly payable seperately under ST S 913 of SCH-4 of Vol-III: Supply)",
+          "grandChild": [
+            {
+              "name": "b",
+              "value": "b",
+              "description": "Mechanically Operated",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "Electrically operated",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "909",
+          "value": "909",
+          "description": "Providing and fixing anodised aluminium work of Jindal, Hindalco or other equivalent approved make for door frames, windows, ventillators, partitions, railing etc with extruded standard tubular and other sections including all fittings \u0026 fixtures and accessories of approved make conforming to IS733 and IS1285, anodised and electro color dyed to required shade according to IS 1868 (minimum anodic coating of grade AC15), fixed with rawl plugs, expansion fasteners, SS screws or with fixing clips, including necessary filling of gaps at junctions, at top, bottom and sides with required PVC/neoprene felt for bi-metalic protection etc. including preperation of working drawings, aluminium cleat angle, aluminium snap-on-beading for glazing/ panelling, stair case tread nosing, with all fittings and fixtures (like tower bolts, handles, door stopper with rubber shoes, \u0027L\u0027 drops, stays, floor springs, hydraulic door closures etc.), CP brass/ stailess steel screws, providing and fixing hinges/ pivots, and making provision for fixing of fitting wherever required including cost of PVC/ neoprene gasket, all complete as per drawing, specification and instructions of engineer in charge (Glazing and panelling shall be paid seperately).Weight of aluminium section only shall be measure."
+        },
+        {
+          "name": "913",
+          "value": "913",
+          "description": "Transportation from store and fixing in position rolling shutter (as per ST No. S 913 of SCH-4 of Vol-III :Supply) of hot rolled double dipped galvanised steel lath section of 18 SWG tested mild steel strips at 75mm rolling centres interlocked  together through their entire length and jointed together at the end by end locks mounted on specially designed pipe shaft with brackets, side guides and arrangements for inside and outside locking with push and pull operation including wire springs, top cover, primer \u0026 shop coats of approved enamel paint etc, all complete as per IS 6248 and specification of approved make of following types: The bottom lath shall be coupled to a lock plate fabricated from 3mm thick galvanised steel plate and securely rivetted with stiffening angles. (partly coiled and lath/ full lath). (Cost against supply of rolling shutter assembly payable seperately under ST S 913 of SCH-4 of Vol-III: Supply)",
+          "grandChild": [
+            {
+              "name": "b",
+              "value": "b",
+              "description": "Mechanically Operated",
+              "gGrandchild": []
+            },
+            {
+              "name": "c",
+              "value": "c",
+              "description": "Electrically operated",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "914",
+          "value": "914",
+          "description": "Providing and fixing PVC doors (25 thk double skin) of sintex or equivalent make including all fitting \u0026 fixtures as per specification, drawing and instructions of engineer in charge."
+        },
+        {
+          "name": "915",
+          "value": "915",
+          "description": "Providing, fixing and fitting of glazing of first grade class in steel/ aluminium/ wooden frames, where ever required, cleaning after fixing including hardware, gaskets, clips, beadings etc. all complete.",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a",
+              "description": "6mm thick clear float glass",
+              "gGrandchild": []
+            },
+            {
+              "name": "d",
+              "value": "d",
+              "description": "6 mm thick wired glass",
+              "gGrandchild": []
+            },
+            {
+              "name": "f",
+              "value": "f",
+              "description": "4 mm thick ground glass",
+              "gGrandchild": []
+            },
+            {
+              "name": "h",
+              "value": "h",
+              "description": "6 mm thick clear toughened safety glass ",
+              "gGrandchild": []
+            },
+            {
+              "name": "i",
+              "value": "i",
+              "description": "Two nos. 6 mm thick clear toughened float glass hermetically sealed and separated by 12 mm thick air gap for thermal insulation (only single elevation area to be measured)",
+              "gGrandchild": []
+            }
+          ]
+        },
+        {
+          "name": "917",
+          "value": "917",
+          "description": "Providing and fixing 12 mm thick BWP particle board, decorative veneer (prelaminated) on both sides, as panels in aluminium framed door shutter, fixed with necessary snap-on-beading etc. all complete (excluding aluminium works)."
+        },
+        {
+          "name": "918",
+          "value": "918",
+          "description": "Providing  and fixing steel louvered window with ISMC 100 frame all round including verticals with 18G pressed steel louvers, painting etc. all complete."
+        }
+      ]
+    }
+  ],
+  "right": [
+    {
+      "name": "2300",
+      "value": "2300",
+      "childList": [
+        {
+          "name": "2300",
+          "value": "2300"
+        },
+        {
+          "name": "2301A",
+          "value": "2301A"
+        },
+        {
+          "name": "2302A",
+          "value": "2302A"
+        },
+        {
+          "name": "2304",
+          "value": "2304"
+        },
+        {
+          "name": "2304A",
+          "value": "2304A"
+        },
+        {
+          "name": "2307",
+          "value": "2307",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a"
+            }
+          ]
+        },
+        {
+          "name": "2308A",
+          "value": "2308A"
+        },
+        {
+          "name": "2311",
+          "value": "2311"
+        },
+        {
+          "name": "2312",
+          "value": "2312"
+        },
+        {
+          "name": "2313",
+          "value": "2313"
+        },
+        {
+          "name": "2314",
+          "value": "2314",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a"
+            },
+            {
+              "name": "b",
+              "value": "b"
+            }
+          ]
+        },
+        {
+          "name": "2315",
+          "value": "2315"
+        },
+        {
+          "name": "2318",
+          "value": "2318",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a"
+            },
+            {
+              "name": "b",
+              "value": "b"
+            },
+            {
+              "name": "c",
+              "value": "c"
+            },
+            {
+              "name": "d",
+              "value": "d"
+            },
+            {
+              "name": "e",
+              "value": "e"
+            },
+            {
+              "name": "a",
+              "value": "a"
+            },
+            {
+              "name": "b",
+              "value": "b"
+            },
+            {
+              "name": "c",
+              "value": "c"
+            },
+            {
+              "name": "d",
+              "value": "d"
+            },
+            {
+              "name": "e",
+              "value": "e"
+            }
+          ]
+        },
+        {
+          "name": "2321",
+          "value": "2321"
+        },
+        {
+          "name": "2322",
+          "value": "2322"
+        },
+        {
+          "name": "2323",
+          "value": "2323"
+        },
+        {
+          "name": "2324",
+          "value": "2324"
+        },
+        {
+          "name": "2326",
+          "value": "2326"
+        },
+        {
+          "name": "2327",
+          "value": "2327",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a"
+            }
+          ]
+        },
+        {
+          "name": "2328",
+          "value": "2328"
+        },
+        {
+          "name": "2311",
+          "value": "2311"
+        },
+        {
+          "name": "2312",
+          "value": "2312"
+        },
+        {
+          "name": "2318",
+          "value": "2318",
+          "grandChild": [
+            {
+              "name": "a",
+              "value": "a"
+            },
+            {
+              "name": "b",
+              "value": "b"
+            },
+            {
+              "name": "c",
+              "value": "c"
+            },
+            {
+              "name": "d",
+              "value": "d"
+            },
+            {
+              "name": "e",
+              "value": "e"
+            },
+            {
+              "name": "a",
+              "value": "a"
+            },
+            {
+              "name": "b",
+              "value": "b"
+            },
+            {
+              "name": "c",
+              "value": "c"
+            },
+            {
+              "name": "d",
+              "value": "d"
+            },
+            {
+              "name": "e",
+              "value": "e"
+            }
+          ]
+        },
+        {
+          "name": "2322",
+          "value": "2322"
+        }
+      ]
+    }
+  ]
+})

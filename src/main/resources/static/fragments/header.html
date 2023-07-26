@@ -1,0 +1,28 @@
+<!doctype html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:tiles="http://www.thymeleaf.org">
+<head>
+<!-- Required meta tags -->
+<meta charset="utf-8">
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+</head>
+<body>
+<div th:fragment="header" class="header">
+	<div style="overflow-y: hidden; overflow-x: hidden;">
+		<nav class="navbar navbar-light bg-primary text-white">
+			<a class="navbar-brand text-white" href="#"> <img
+				th:src="@{images/bhel.png}" width="70" height="70"
+				class="d-inline-block align-top" alt="bhel_logo" />
+
+			</a>
+			<div class="navbar-text text-white">
+				<form th:action="@{/logout}" th:method="get">
+					<button class="btn btn-outline-light btn-sm" type="submit">Logout</button>
+				</form>
+			</div>
+		</nav>
+	</div>
+</div>
+</body>

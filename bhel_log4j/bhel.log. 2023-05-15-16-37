@@ -1,0 +1,7 @@
+[2023-05-15 16:37:12,825] http-nio-8095-exec-7 com.bhel.project.controller.BhelController 42 (INFO) - login method
+[2023-05-15 16:37:12,830] http-nio-8095-exec-7 com.bhel.project.controller.BhelController 43 (DEBUG) - loading from page...
+[2023-05-15 16:37:12,830] http-nio-8095-exec-7 com.bhel.project.controller.BhelController 44 (INFO) - Info level message!!!
+[2023-05-15 16:37:12,830] http-nio-8095-exec-7 com.bhel.project.controller.BhelController 45 (WARN) - Warn level message!!!
+[2023-05-15 16:37:12,830] http-nio-8095-exec-7 com.bhel.project.controller.BhelController 46 (ERROR) - Error level message!!!
+[2023-05-15 16:37:12,831] http-nio-8095-exec-7 com.bhel.project.controller.BhelController 47 (FATAL) - Fatal level message!!!
+[2023-05-15 16:37:27,882] http-nio-8095-exec-4 com.bhel.project.controller.BhelController 121 (INFO) - [getDashboardOverallData] : start of the method !!
